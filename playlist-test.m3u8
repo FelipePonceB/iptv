@@ -2,16 +2,16 @@
 #EXTINF:-1 tvg-id="latina.pe" tvg-name="Latina" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527492_FDEFEA55854A1D7B.png",Latina
 http://190.93.224.42/LATINA/index.m3u8
 
-#EXTINF:-1 tvg-id="MovistarDeportes.pe@SD" group-title="Sports",Movistar Deportes
+#EXTINF:-1 tvg-id="movistar.deportes.pe" tvg-name="Movistar Deportes" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527492_FDEFEA55854A1D7B.png",Movistar Deportes
 http://195.178.110.110/movistar/index.m3u8
 
-#EXTINF:-1 tvg-id="MovistarDeportes.pe@SD" group-title="Sports",Movistar Deportes
+#EXTINF:-1 tvg-id="movistar.deportes.pe" tvg-name="Movistar Deportes" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527492_FDEFEA55854A1D7B.png",Movistar Deportes
 http://170.244.209.30:8000/play/a1i8/index.m3u8
 
 #EXTINF:-1 tvg-id="L1Max.pe@SD" group-title="Sports",L1 Max
 http://190.93.224.42/LIGA-1-MAX/index.m3u8
 
-#EXTINF:-1 tvg-id="AmericaTelevision.pe@SD",America Television
+#EXTINF:-1 tvg-id="America.Television.pe" tvg-name="America Television" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/60/7603588_DDA3D54A42268071.png",America Television
 http://190.93.224.42/AMERICA-TV/index.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe@SD",Panamericana TV
