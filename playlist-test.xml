@@ -1,458 +1,265 @@
-?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE tv SYSTEM "xmltv.dtd">
-
-<tv generator-info-name="none" generator-info-url="none">
-<channel id="latina.pe">
-<display-name lang="es">Latina</display-name>
-<icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527492_FDEFEA55854A1D7B.png"/>
-<url>http://www.movistar.com.pe</url>
-</channel>
-</tv>
-<programme start="20260919013000 +0000" stop="20260919022000 +0000" channel="latina.pe">
-<title lang="es">Valentina valiente</title>
-<desc lang="es">
-Valentina se gana la vida cantando en los camiones de la ciudad junto con sus hermanos para ayuda a su abuelita. Todo cambia cuando conoce a Alejandro, un chico adinerado que la acerca a la verdad de sus orígenes.
-</desc>
-<date>2026</date>
-<rating system="MJColombia">
-<value>+14</value>
-</rating>
-</programme>
-<programme start="20260919022000 +0000" stop="20260919042000 +0000" channel="latina.pe">
-<title lang="es">Yo soy</title>
-<desc lang="es">
-Un programa donde los concursantes imitan a su estrella preferida realizando conciertos espectaculares y dispuestos a realizar inimaginables cambios para ser premiados como ganadores.
-</desc>
-<date>2009</date>
-<rating system="MJColombia">
-<value>+14</value>
-</rating>
-</programme>
-<programme start="20260919042000 +0000" stop="20260919050000 +0000" channel="latina.pe">
-<title lang="es">Corazón ajeno</title>
-<desc lang="es">
-La vida de cuatro personas se entrelaza luego de un accidente de tránsito y el destino parece no querer que se separen nunca más.
-</desc>
-<rating system="MJColombia">
-<value>+14</value>
-</rating>
-</programme>
-<programme start="20260919050000 +0000" stop="20260919053000 +0000" channel="latina.pe">
-<title lang="es">Espacio alquilado (Problemas y soluciones)</title>
-<date>2025</date>
-<rating system="MJColombia">
-<value>+14</value>
-</rating>
-</programme>
-<programme start="20260919053000 +0000" stop="20260919063000 +0000" channel="latina.pe">
-<title lang="es">Espacio alquilado (Nutrisa)</title>
-<date>2025</date>
-<rating system="MJColombia">
-<value>+14</value>
-</rating>
-</programme>
-<programme start="20260919063000 +0000" stop="20260919073000 +0000" channel="latina.pe">
-<title lang="es">Golden Boy</title>
-<desc lang="es">
-El patriarca de los Korhan busca esposa para Ferit, su imprudente nieto menor. Una de las hijas de Kazim es la elegida, pero todo cambia cuando el novio escoge a Seyran, la hermana equivocada.
-</desc>
-<date>2026</date>
-<rating system="MJColombia">
-<value>TE</value>
-</rating>
-</programme>
-<programme start="20260919073000 +0000" stop="20260919080000 +0000" channel="latina.pe">
-<title lang="es">Perdidos de Amor</title>
-<rating system="MJColombia">
-<value>+14</value>
-</rating>
-</programme>
-<programme start="20260919080000 +0000" stop="20260919090000 +0000" channel="latina.pe">
-<title lang="es">No me dejes</title>
-<desc lang="es">
-La familia Sayar comienza una nueva vida tras algunas pérdidas.
-</desc>
-<date>2018</date>
-<rating system="MJColombia">
-<value>TE</value>
-</rating>
-</programme>
-<programme start="20260919090000 +0000" stop="20260919100000 +0000" channel="latina.pe">
-<title lang="es">Buenas nuevas y malas nuevas</title>
-<desc lang="es">
-Las noticias que se deben conocer en el Perú y el mundo.
-</desc>
-<date>2022</date>
-<rating system="MJColombia">
-<value>TE</value>
-</rating>
-</programme>
-<programme start="20260919100000 +0000" stop="20260919120000 +0000" channel="latina.pe">
-<title lang="es">Latina noticias reporte semanal</title>
-<desc lang="es">Las noticias más destacadas.</desc>
-<date>2021</date>
-<rating system="MJColombia">
-<value>TE</value>
-</rating>
-</programme>
-<programme start="20260919120000 +0000" stop="20260919150000 +0000" channel="latina.pe">
-<title lang="es">Latina noticias fin de semana</title>
-<desc lang="es">Lo más importante del Perú y el mundo.</desc>
-<date>2021</date>
-<rating system="MJColombia">
-<value>TE</value>
-</rating>
-</programme>
-<programme start="20260919150000 +0000" stop="20260919170000 +0000" channel="latina.pe">
-<title lang="es">Latina noticias reporte semanal</title>
-<desc lang="es">Las noticias más destacadas.</desc>
-<date>2021</date>
-<rating system="MJColombia">
-<value>TE</value>
-</rating>
-</programme>
-<programme start="20260919170000 +0000" stop="20260919190000 +0000" channel="latina.pe">
-<title lang="es">Latina noticias mediodía</title>
-<desc lang="es">Las noticias más destacadas del fin de semana.</desc>
-<date>2021</date>
-<rating system="MJColombia">
-<value>TE</value>
-</rating>
-</programme>
-<programme start="20260919190000 +0000" stop="20260919193000 +0000" channel="latina.pe">
-<title lang="es">Somos vóley</title>
-<desc lang="es">
-Cobertura, análisis y las noticias más relevantes de la Liga Peruana de Vóley (LPV).
-</desc>
-<date>2025</date>
-<rating system="MJColombia">
-<value>TE</value>
-</rating>
-</programme>
-<programme start="20260919193000 +0000" stop="20260919210000 +0000" channel="latina.pe">
-<title lang="es">Pollitos en fuga</title>
-<desc lang="es">
-Un apuesto gallo y la gallina que él ama encabezan una fuga de una granja inglesa durante los años cincuenta.
-</desc>
-<date>2000</date>
-<country lang="es">Estados Unidos,Reino Unido,Francia</country>
-<rating system="MJColombia">
-<value>TE</value>
-</rating>
-</programme>
-<programme start="20260919210000 +0000" stop="20260919223000 +0000" channel="latina.pe">
-<title lang="es">Los viajes de Gulliver</title>
-<desc lang="es">
-Durante un viaje al Triángulo de las Bermudas, un vórtice transporta a Lemuel Gulliver a Lilliput, una tierra mágica habitada por gente diminuta. Sus habitantes utilizarán su gran tamaño para defender su territorio del ataque de sus enemigos.
-</desc>
-<date>2010</date>
-<country lang="es">Estados Unidos</country>
-<rating system="MJColombia">
-<value>+14</value>
-</rating>
-</programme>
-<programme start="20260919223000 +0000" stop="20260920001500 +0000" channel="latina.pe">
-<title lang="es">Rio 2</title>
-<desc lang="es">
-Blu, Jewel y sus tres niños dejan la comodidad de la ciudad y viajan a la selva del Amazonas para aprender a vivir como aves salvajes.
-</desc>
-<date>2014</date>
-<country lang="es">Estados Unidos</country>
-<rating system="MJColombia">
-<value>TE</value>
-</rating>
-</programme>
-<programme start="20260920001500 +0000" stop="20260920020000 +0000" channel="latina.pe">
-<title lang="es">La era de hieloChoque de mundos</title>
-<desc lang="es">
-Manny, Sid, Diego y el resto de la manada tienen que salir de sus casas después de que una aventura de Scrat en el espacio exterior envía un asteroide a toda velocidad hacia la Tierra.
-</desc>
-<date>2016</date>
-<country lang="es">Estados Unidos,Reino Unido</country>
-<rating system="MJColombia">
-<value>+14</value>
-</rating>
-</programme>
-<programme start="20260920020000 +0000" stop="20260920034500 +0000" channel="latina.pe">
-<title lang="es">Yo soy</title>
-<desc lang="es">
-Un programa donde los concursantes imitan a su estrella preferida realizando conciertos espectaculares y dispuestos a realizar inimaginables cambios para ser premiados como ganadores.
-</desc>
-<date>2009</date>
-<rating system="MJColombia">
-<value>+14</value>
-</rating>
-</programme>
-<programme start="20260920034500 +0000" stop="20260920053000 +0000" channel="latina.pe">
-<title lang="es">La gran sangre</title>
-<desc lang="es">
-El Banco de la Nación sufre un asalto: las cámaras de vigilancia sufrieron un tiroteo, al igual que todo el personal de vigilancia y atención. Además de la masacre, todo el dinero fue saqueado.
-</desc>
-<date>2006</date>
-<rating system="MJColombia">
-<value>+14</value>
-</rating>
-</programme>
-<programme start="20260920053000 +0000" stop="20260920063000 +0000" channel="latina.pe">
-<title lang="es">Espacio alquilado (Nutrisa)</title>
-<date>2025</date>
-<rating system="MJColombia">
-<value>+14</value>
-</rating>
-</programme>
-<programme start="20260920063000 +0000" stop="20260920073000 +0000" channel="latina.pe">
-<title lang="es">Golden Boy</title>
-<desc lang="es">
-El patriarca de los Korhan busca esposa para Ferit, su imprudente nieto menor. Una de las hijas de Kazim es la elegida, pero todo cambia cuando el novio escoge a Seyran, la hermana equivocada.
-</desc>
-<date>2026</date>
-<rating system="MJColombia">
-<value>TE</value>
-</rating>
-</programme>
-<programme start="20260920073000 +0000" stop="20260920080000 +0000" channel="latina.pe">
-<title lang="es">Perdidos de Amor</title>
-<rating system="MJColombia">
-<value>+14</value>
-</rating>
-</programme>
-<programme start="20260920080000 +0000" stop="20260920084500 +0000" channel="latina.pe">
-<title lang="es">Alerta latina</title>
-<date>2024</date>
-<rating system="MJColombia">
-<value>+14</value>
-</rating>
-</programme>
-<programme start="20260920084500 +0000" stop="20260920100000 +0000" channel="latina.pe">
-<title lang="es">Especial Reporte semanal</title>
-<desc lang="es">
-Especial sobre este programa de las noticias más relevantes de la semana del Perú y el mundo.
-</desc>
-<date>2018</date>
-<rating system="MJColombia">
-<value>+14</value>
-</rating>
-</programme>
-<programme start="20260920100000 +0000" stop="20260920110000 +0000" channel="latina.pe">
-<title lang="es">Reporte semanal</title>
-<desc lang="es">
-Un resumen de las noticias más relevantes de la semana del Perú y el mundo.
-</desc>
-<date>2001</date>
-<rating system="MJColombia">
-<value>+14</value>
-</rating>
-</programme>
-<programme start="20260920110000 +0000" stop="20260920133000 +0000" channel="latina.pe">
-<title lang="es">Latina noticias fin de semana</title>
-<desc lang="es">Lo más importante del Perú y el mundo.</desc>
-<date>2021</date>
-<rating system="MJColombia">
-<value>TE</value>
-</rating>
-</programme>
-<programme start="20260920133000 +0000" stop="20260920170000 +0000" channel="latina.pe">
-<title lang="es">Latina noticias reporte semanal</title>
-<desc lang="es">Las noticias más destacadas.</desc>
-<date>2021</date>
-<rating system="MJColombia">
-<value>TE</value>
-</rating>
-</programme>
-<programme start="20260920170000 +0000" stop="20260920190000 +0000" channel="latina.pe">
-<title lang="es">Latina noticias mediodía</title>
-<desc lang="es">Las noticias más destacadas del fin de semana.</desc>
-<date>2021</date>
-<rating system="MJColombia">
-<value>TE</value>
-</rating>
-</programme>
-<programme start="20260920190000 +0000" stop="20260920201500 +0000" channel="latina.pe">
-<title lang="es">Habla serio</title>
-<desc lang="es">
-El objetivo del video pódcast con Mónica Delta y Santiago Gómez es conocer a la persona que hay detrás del personaje y disfrutar del proceso.
-</desc>
-<date>2024</date>
-<rating system="MJColombia">
-<value>+14</value>
-</rating>
-</programme>
-<programme start="20260920201500 +0000" stop="20260920214500 +0000" channel="latina.pe">
-<title lang="es">A toda velocidad</title>
-<desc lang="es">
-El viaje de la familia Cox se transforma en una aventura a toda velocidad cuando los pasajeros descubren que no pueden controlar su auto.
-</desc>
-<date>2016</date>
-<country lang="es">Francia</country>
-<rating system="MJColombia">
-<value>TE</value>
-</rating>
-</programme>
-<programme start="20260920214500 +0000" stop="20260921000000 +0000" channel="latina.pe">
-<title lang="es">Tornado</title>
-<desc lang="es">
-Dos grupos de científicos estudian los comportamientos de los tornados. Ambos compiten por ser los primeros en analizar estos fenómenos meteorológicos.
-</desc>
-<date>1996</date>
-<country lang="es">Estados Unidos</country>
-<rating system="MJColombia">
-<value>+14</value>
-</rating>
-</programme>
-<programme start="20260921000000 +0000" stop="20260921010000 +0000" channel="latina.pe">
-<title lang="es">Latina noticias central</title>
-<desc lang="es">Las últimas noticias del Perú y el mundo.</desc>
-<date>2021</date>
-<rating system="MJColombia">
-<value>TE</value>
-</rating>
-</programme>
-<programme start="20260921010000 +0000" stop="20260921030000 +0000" channel="latina.pe">
-<title lang="es">Latina noticias punto final</title>
-<desc lang="es">Noticias del Perú y el mundo.</desc>
-<date>2021</date>
-<rating system="MJColombia">
-<value>+14</value>
-</rating>
-</programme>
-<programme start="20260921030000 +0000" stop="20260921040000 +0000" channel="latina.pe">
-<title lang="es">Sin medias tintas</title>
-<desc lang="es">
-Un espacio informativo formado por un equipo con los periodistas más incisivos y provocadores de la televisión.
-</desc>
-<date>2011</date>
-<rating system="MJColombia">
-<value>+14</value>
-</rating>
-</programme>
-<programme start="20260921040000 +0000" stop="20260921050000 +0000" channel="latina.pe">
-<title lang="es">Latina Deportes</title>
-<desc lang="es">
-Las noticias sobre el fútbol peruano, la Selección peruana y el Mundial Sudamericano Sub 20. Además, voleibol, boxeo, natación y más.
-</desc>
-<date>2018</date>
-<rating system="MJColombia">
-<value>+14</value>
-</rating>
-</programme>
-<programme start="20260921050000 +0000" stop="20260921053000 +0000" channel="latina.pe">
-<title lang="es">Expertos en belleza</title>
-<desc lang="es">
-Médicos especialistas te explican con claridad y respaldo científico lo último en estética y bienestar, para que tomes decisiones informadas y seguras.
-</desc>
-<date>2025</date>
-<rating system="MJColombia">
-<value>+14</value>
-</rating>
-</programme>
-<programme start="20260921053000 +0000" stop="20260921063000 +0000" channel="latina.pe">
-<title lang="es">Espacio alquilado (Nutrisa)</title>
-<date>2025</date>
-<rating system="MJColombia">
-<value>+14</value>
-</rating>
-</programme>
-<programme start="20260921063000 +0000" stop="20260921073000 +0000" channel="latina.pe">
-<title lang="es">Lo que callamos las mujeres</title>
-<desc lang="es">
-Hechos reales que plantean situaciones difíciles que muchas niñas y mujeres enfrentan a diario, generalmente en silencio. Buscar alternativas y poner fin a la discriminación es el objetivo.
-</desc>
-<date>2000</date>
-<rating system="MJColombia">
-<value>+14</value>
-</rating>
-</programme>
-<programme start="20260921073000 +0000" stop="20260921080000 +0000" channel="latina.pe">
-<title lang="es">Habla serio</title>
-<desc lang="es">
-El objetivo del video pódcast con Mónica Delta y Santiago Gómez es conocer a la persona que hay detrás del personaje y disfrutar del proceso.
-</desc>
-<date>2024</date>
-<rating system="MJColombia">
-<value>+14</value>
-</rating>
-</programme>
-<programme start="20260921080000 +0000" stop="20260921110000 +0000" channel="latina.pe">
-<title lang="es">Reporte semanal</title>
-<desc lang="es">
-Un resumen de las noticias más relevantes de la semana del Perú y el mundo.
-</desc>
-<date>2001</date>
-<rating system="MJColombia">
-<value>+14</value>
-</rating>
-</programme>
-<programme start="20260921110000 +0000" stop="20260921120000 +0000" channel="latina.pe">
-<title lang="es">Latina noticias matinal</title>
-<desc lang="es">Las noticias del Perú y el mundo.</desc>
-<date>2021</date>
-<rating system="MJColombia">
-<value>TE</value>
-</rating>
-</programme>
-<programme start="20260921120000 +0000" stop="20260921140000 +0000" channel="latina.pe">
-<title lang="es">Latina noticias matinal</title>
-<desc lang="es">Las noticias del Perú y el mundo.</desc>
-<date>2021</date>
-<rating system="MJColombia">
-<value>TE</value>
-</rating>
-</programme>
-<programme start="20260921140000 +0000" stop="20260921163000 +0000" channel="latina.pe">
-<title lang="es">Arriba mi gente</title>
-<desc lang="es">
-Un magazine con un enfoque renovado y con lo último en entretenimiento, espectáculo y entrevistas exclusivas.
-</desc>
-<date>2022</date>
-<rating system="MJColombia">
-<value>TE</value>
-</rating>
-</programme>
-<programme start="20260921163000 +0000" stop="20260921190000 +0000" channel="latina.pe">
-<title lang="es">Latina noticias mediodía</title>
-<desc lang="es">Las noticias del Perú y el mundo.</desc>
-<date>2021</date>
-<rating system="MJColombia">
-<value>TE</value>
-</rating>
-</programme>
-<programme start="20260921190000 +0000" stop="20260921200000 +0000" channel="latina.pe">
-<title lang="es">Ponte en la cola</title>
-<desc lang="es">
-Espacio con entrevistas exclusivas, momentos divertidos, interacción directa con el público y una mirada fresca al mundo del espectáculo.
-</desc>
-<date>2025</date>
-<rating system="MJColombia">
-<value>TE</value>
-</rating>
-</programme>
-<programme start="20260921200000 +0000" stop="20260921210000 +0000" channel="latina.pe">
-<title lang="es">Yo soy Betty, la fea</title>
-<desc lang="es">
-Beatriz Pinzón tiene un título en finanzas. Para su suerte, consigue empleo en una de las compañías más importantes en el mundo de la moda, Ecomoda. Betty nunca imaginó los constantes desprecios que enfrentaría por su aspecto físico.
-</desc>
-<date>2019</date>
-<rating system="MJColombia">
-<value>TE</value>
-</rating>
-</programme>
-<programme start="20260921210000 +0000" stop="20260921220000 +0000" channel="latina.pe">
-<title lang="es">Avenida Brasil</title>
-<desc lang="es">
-Una historia en la que la ambición y la crueldad cambiarán el curso de la vida de Rita, una niña a quien el tiempo no le servirá para olvidar, sino para tomar más fuerza, y regresar al cabo de unos años, a cobrar su propia venganza.
-</desc>
-<date>2012</date>
-<rating system="MJColombia">
-<value>TE</value>
-</rating>
-</programme>
-<programme start="20260921220000 +0000" stop="20260922000000 +0000" channel="latina.pe">
-<title lang="es">Moisés y los diez mandamientos</title>
-<desc lang="es">
-Una novela basada en un pasaje de la Biblia que relata la saga de Moisés desde su nacimiento hasta llevar a su pueblo a la Tierra Prometida.
-</desc>
-<date>2015</date>
-<rating system="MJColombia">
-<value>+14</value>
-</rating>
-</programme>
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="tv.movistar.com.pe" site_id="lch2171" lang="es" xmltv_id="">ESPN INTERNACIONAL</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2174" lang="es" xmltv_id="">ESPN 3</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2188" lang="es" xmltv_id="">Cartoon Network HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2189" lang="es" xmltv_id="">TNT HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2201" lang="es" xmltv_id="">LATINA HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2202" lang="es" xmltv_id="">AMERICA TELEVISION HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2203" lang="es" xmltv_id="">PANAMERICANA TELEVISION HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2204" lang="es" xmltv_id="">TV PERU HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2205" lang="es" xmltv_id="">ATV HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2215" lang="es" xmltv_id="">GLOBAL</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2218" lang="es" xmltv_id="">LA TELE PERU</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2221" lang="es" xmltv_id="">TNT</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2222" lang="es" xmltv_id="">TNT SERIES</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2224" lang="es" xmltv_id="">TNT SERIES HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2226" lang="es" xmltv_id="">WARNER CHANNEL</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2227" lang="es" xmltv_id="">STAR CHANNEL</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2232" lang="es" xmltv_id="">FX</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2236" lang="es" xmltv_id="">INVESTIGATION DISCOVERY</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2237" lang="es" xmltv_id="">TRU TV</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2238" lang="es" xmltv_id="">TCM</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2239" lang="es" xmltv_id="">SPACE</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2245" lang="es" xmltv_id="">STUDIO UNIVERSAL</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2249" lang="es" xmltv_id="">CINECANAL</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2250" lang="es" xmltv_id="">CINEMAX</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2251" lang="es" xmltv_id="">HBO</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2252" lang="es" xmltv_id="">HBO SIGNATURE</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2253" lang="es" xmltv_id="">HBO FAMILY ESTE</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2254" lang="es" xmltv_id="">HBO 2</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2255" lang="es" xmltv_id="">HBO MUNDI</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2257" lang="es" xmltv_id="">HBO PLUS ESTE</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2259" lang="es" xmltv_id="">HBO XTREME</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2268" lang="es" xmltv_id="">DISCOVERY CHANNEL</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2270" lang="es" xmltv_id="">NAT GEO</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2271" lang="es" xmltv_id="">HISTORY 2</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2273" lang="es" xmltv_id="">DISCOVERY SCIENCE</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2275" lang="es" xmltv_id="">DISCOVERY TURBO</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2277" lang="es" xmltv_id="">TLC</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2278" lang="es" xmltv_id="">HOME &amp; HEALTH</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2284" lang="es" xmltv_id="">CARTOON NETWORK</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2285" lang="es" xmltv_id="">DISCOVERY KIDS</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2287" lang="es" xmltv_id="">CARTOONITO</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2288" lang="es" xmltv_id="">NICKELODEON</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2290" lang="es" xmltv_id="">ANIMAL PLANET</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2291" lang="es" xmltv_id="">DISNEY JUNIOR</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2294" lang="es" xmltv_id="">FOX SPORTS PREMIUM</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2295" lang="es" xmltv_id="">ESPN 7</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2296" lang="es" xmltv_id="">ESPN 6</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2297" lang="es" xmltv_id="">ESPN 2</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2299" lang="es" xmltv_id="">GOLF CHANNEL</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2300" lang="es" xmltv_id="">JOCKEY CLUB</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2302" lang="es" xmltv_id="">WOBI</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2303" lang="es" xmltv_id="">CNN ESPAÑOL</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2304" lang="es" xmltv_id="">CNN INTERNACIONAL</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2305" lang="es" xmltv_id="">FOX NEWS</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2308" lang="es" xmltv_id="">CAPITAL TV</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2311" lang="es" xmltv_id="">ENLACE TBN</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2313" lang="es" xmltv_id="">MTV</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2315" lang="es" xmltv_id="">HTV</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2318" lang="es" xmltv_id="">CANAL N HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2320" lang="es" xmltv_id="">STAR CHANNEL HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2322" lang="es" xmltv_id="">WARNER CHANNEL HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2325" lang="es" xmltv_id="">FX HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2327" lang="es" xmltv_id="">INV.DISCOVERY HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2328" lang="es" xmltv_id="">COMEDY CENTRAL HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2330" lang="es" xmltv_id="">SPACE HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2335" lang="es" xmltv_id="">CINECANAL HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2336" lang="es" xmltv_id="">CINEMAX HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2339" lang="es" xmltv_id="">ESPN 5 HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2340" lang="es" xmltv_id="">ESPN 7 HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2341" lang="es" xmltv_id="">ESPN 6 HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2343" lang="es" xmltv_id="">DISCOVERY THEATER HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2344" lang="es" xmltv_id="">DISCOVERY HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2347" lang="es" xmltv_id="">NAT GEO HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2349" lang="es" xmltv_id="">LATINA</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2351" lang="es" xmltv_id="">FASHION ONE HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2353" lang="es" xmltv_id="">DISCOVERY WORLD HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2354" lang="es" xmltv_id="">HOME &amp; HEALTH HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2356" lang="es" xmltv_id="">DISCOVERY KIDS HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2357" lang="es" xmltv_id="">DISNEY CHANNEL HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2358" lang="es" xmltv_id="">NICK HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2359" lang="es" xmltv_id="">MTV HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2374" lang="es" xmltv_id="">GLOBO TV</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2375" lang="es" xmltv_id="">TELEFE</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2376" lang="es" xmltv_id="">EL TRECE</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2378" lang="es" xmltv_id="">TELESUR</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2380" lang="es" xmltv_id="">TVE</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2381" lang="es" xmltv_id="">ANTENA3</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2382" lang="es" xmltv_id="">DEUTSCHE WELLE</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2383" lang="es" xmltv_id="">RAI TV</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2384" lang="es" xmltv_id="">TV5</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2385" lang="es" xmltv_id="">NHK</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2386" lang="es" xmltv_id="">CCTV</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2388" lang="es" xmltv_id="">VOA</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2389" lang="es" xmltv_id="">PLAYBOY</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2392" lang="es" xmltv_id="">PLAYBOY HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2400" lang="es" xmltv_id="">CONGRESO</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2459" lang="es" xmltv_id="">RPP HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2461" lang="es" xmltv_id="">HBO HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2491" lang="es" xmltv_id="">BABY TV</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2770" lang="es" xmltv_id="">BBC WORLD NEWS</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2775" lang="es" xmltv_id="">ESPN HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2776" lang="es" xmltv_id="">ESPN 3 HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2796" lang="es" xmltv_id="">SPACE HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2813" lang="es" xmltv_id="">ESPN 4 HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch3091" lang="es" xmltv_id="">ANIMAL PLANET HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch3102" lang="es" xmltv_id="">TNT HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch3297" lang="es" xmltv_id="">PLUS LIFE</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch3298" lang="es" xmltv_id="">M DEPORTES HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch3300" lang="es" xmltv_id="">M DEPORTES</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch3357" lang="es" xmltv_id="">CABLE NOTICIAS</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch3446" lang="es" xmltv_id="">HBO PLUS ESTE HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch3447" lang="es" xmltv_id="">HBO SIGNATURE HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch3448" lang="es" xmltv_id="">CAPITAL TV HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch3451" lang="es" xmltv_id="">ATV+ HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch3489" lang="es" xmltv_id="">NAT GEO HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch3661" lang="es" xmltv_id="">TEST01</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch3662" lang="es" xmltv_id="">TEST02</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch3753" lang="es" xmltv_id="">Juntos TV</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch3952" lang="es" xmltv_id="">ESPN 2 HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch4007" lang="es" xmltv_id="">DISCOVERY HOME &amp; GARDEN</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch4038" lang="es" xmltv_id="">FOOD NETWORK</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5483" lang="es" xmltv_id="">MOVISTAR EVENTOS</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5593" lang="es" xmltv_id="">Food Network HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5594" lang="es" xmltv_id="">Exitosa TV</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5595" lang="es" xmltv_id="">Exitosa TV</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5598" lang="es" xmltv_id="">INFO STAR PREMIUM</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5601" lang="es" xmltv_id="">VE PLUS TV</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5602" lang="es" xmltv_id="">HGTV</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5605" lang="es" xmltv_id="">NICKELODEON</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5606" lang="es" xmltv_id="">DISNEY</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5607" lang="es" xmltv_id="">PX SPORTS</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5608" lang="es" xmltv_id="">FRANCE24</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5609" lang="es" xmltv_id="">JUSTICIA TV</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5610" lang="es" xmltv_id="">EWTN</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5612" lang="es" xmltv_id="">MOVISTAR EVENTOS HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5613" lang="es" xmltv_id="">TV PERÚ 7.3 HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5614" lang="es" xmltv_id="">WILLAX TV HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5615" lang="es" xmltv_id="">ESPN 4 HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5616" lang="es" xmltv_id="">HGTV HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5618" lang="es" xmltv_id="">CARTOONITO HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5619" lang="es" xmltv_id="">CANAL J HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5621" lang="es" xmltv_id="">TVN CHILE</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5623" lang="es" xmltv_id="">CLOVER</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5624" lang="es" xmltv_id="">UCL</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5625" lang="es" xmltv_id="">TOONCAST</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5626" lang="es" xmltv_id="">KIDS STARS</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5649" lang="es" xmltv_id="">CLOVER</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5650" lang="es" xmltv_id="">CLOVER</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5651" lang="es" xmltv_id="">DISNEY JUNIOR</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5658" lang="es" xmltv_id="">UCL</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5664" lang="es" xmltv_id="">Movistar Te Informa</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5665" lang="es" xmltv_id="">U TV</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5666" lang="es" xmltv_id="">TV PERU HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5700" lang="es" xmltv_id="">Star TVE HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5704" lang="es" xmltv_id="">Via X Esports HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6289" lang="es" xmltv_id="">EWTN</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6294" lang="es" xmltv_id="">TVE</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6298" lang="es" xmltv_id="">HTV</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6299" lang="es" xmltv_id="">TV5</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6302" lang="es" xmltv_id="">FRANCE24</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6303" lang="es" xmltv_id="">TV GLOBO</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6304" lang="es" xmltv_id="">TVN CHILE</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6305" lang="es" xmltv_id="">VE PLUS</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6306" lang="es" xmltv_id="">Telefe Internacional</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6307" lang="es" xmltv_id="">ATV+</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6308" lang="es" xmltv_id="">BABY TV</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6312" lang="es" xmltv_id="">JUSTICIA TV</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6313" lang="es" xmltv_id="">ADULT SWIM</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6316" lang="es" xmltv_id="">ENLACE TBN</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6468" lang="es" xmltv_id="">TV PERU 7.3</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6469" lang="es" xmltv_id="">IPe</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6470" lang="es" xmltv_id="">VIVA TV</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6471" lang="es" xmltv_id="">La Tele</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6473" lang="es" xmltv_id="">SOL TV</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6475" lang="es" xmltv_id="">JN19 TELEJUAN</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6476" lang="es" xmltv_id="">NUEVO TIEMPO</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6477" lang="es" xmltv_id="">PAXTV</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6478" lang="es" xmltv_id="">DEUTSCHE WELLE</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6479" lang="es" xmltv_id="">CCTV</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6480" lang="es" xmltv_id="">VOA</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6489" lang="es" xmltv_id="">TNT NOVELAS HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6490" lang="es" xmltv_id="">HBO</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6491" lang="es" xmltv_id="">HBO 2</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6492" lang="es" xmltv_id="">HBO PLUS</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6493" lang="es" xmltv_id="">HBO FAMILY</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6494" lang="es" xmltv_id="">HBO POP</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6495" lang="es" xmltv_id="">HBO SIGNATURE</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6496" lang="es" xmltv_id="">HBO XTREME</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6507" lang="es" xmltv_id="">CTC</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6508" lang="es" xmltv_id="">RTV EL DIARIO</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6509" lang="es" xmltv_id="">ATV SUR</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6510" lang="es" xmltv_id="">UNSA TV</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6513" lang="es" xmltv_id="">NHK</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6517" lang="es" xmltv_id="">las estrellas</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6518" lang="es" xmltv_id="">Tl Novelas</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6519" lang="es" xmltv_id="">Nativa Tv</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6526" lang="es" xmltv_id="">Amazon</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6527" lang="es" xmltv_id="">Netflix</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6528" lang="es" xmltv_id="">Disney+</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6529" lang="es" xmltv_id="">YouTube</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6530" lang="es" xmltv_id="">Youtube Kids</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6531" lang="es" xmltv_id="">Star+</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6559" lang="es" xmltv_id="">ATRES SERIES HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6616" lang="es" xmltv_id="">CLAN HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6619" lang="es" xmltv_id="">TVLIBERTAD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6992" lang="es" xmltv_id="">DAYSTAR HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch7001" lang="es" xmltv_id="">MOVISTAR EVENTOS 2</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch7076" lang="es" xmltv_id="">AMERICA TELEVISION AREQUIPA</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch7077" lang="es" xmltv_id="">AMERICA TELEVISION CUSCO</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch7078" lang="es" xmltv_id="">AMERICA TELEVISION TRUJILLO</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch7079" lang="es" xmltv_id="">AMERICA TELEVISION CHICLAYO</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch7080" lang="es" xmltv_id="">AMERICA TELEVISION PIURA</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch7081" lang="es" xmltv_id="">PANAMERICANA TELEVISION AREQUIPA</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch7082" lang="es" xmltv_id="">PANAMERICANA TELEVISION CUSCO</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch7083" lang="es" xmltv_id="">PANAMERICANA TELEVISION TRUJILLO</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch7084" lang="es" xmltv_id="">PANAMERICANA TELEVISION CHICLAYO</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch7085" lang="es" xmltv_id="">PANAMERICANA TELEVISION PIURA</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch7106" lang="es" xmltv_id="">ALACOCINA TV</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch7108" lang="es" xmltv_id="">TOP LATINO</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch7109" lang="es" xmltv_id="">LATINA NOTICIAS</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch7110" lang="es" xmltv_id="">PBO</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch7114" lang="es" xmltv_id="">BBC WORLD NEWS</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch7115" lang="es" xmltv_id="">PLIM PLIM</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch7161" lang="es" xmltv_id="">TRIVU</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch7202" lang="es" xmltv_id="">OVACION</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch7203" lang="es" xmltv_id="">JNE TV</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch7204" lang="es" xmltv_id="">CRISTOVISION</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch7205" lang="es" xmltv_id="">NICK JR</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch7216" lang="es" xmltv_id="">L1MAX</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch7217" lang="es" xmltv_id="">L1</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2208" lang="es" xmltv_id="AmericaTelevision.pe@SD">AMERICA TELEVISION</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6292" lang="es" xmltv_id="Antena3Internacional.es@SD">ANTENA 3</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2211" lang="es" xmltv_id="ATV.pe@SD">ATV</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2220" lang="es" xmltv_id="ATVPlus.pe@SD">ATV+</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5667" lang="es" xmltv_id="CanalJ.pe@SD">CANAL J</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2169" lang="es" xmltv_id="CanalN.pe@SD">CANAL N</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6310" lang="es" xmltv_id="CongresoTV.pe@SD">CONGRESO</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5660" lang="es" xmltv_id="ElTiempoTV.co@SD">EL TIEMPO</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6311" lang="es" xmltv_id="ExitosaTV.pe@SD">EXITOSA TV</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6309" lang="es" xmltv_id="GlobalTV.pe@SD">GLOBAL TV</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2307" lang="es" xmltv_id="JusticiaTV.pe@SD">PODER JUDICIAL</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch3964" lang="es" xmltv_id="KanalDDrama.tr@SD">KANAL D DRAMA</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6295" lang="es" xmltv_id="KDrama.id@SD">K-DRAMA</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2207" lang="es" xmltv_id="Latina.pe@SD">LATINA</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5653" lang="es" xmltv_id="LollyKids.uk@SD">LOLLY KIDS</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5703" lang="es" xmltv_id="LoveNature.ca@SD">Love Nature HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch3302" lang="es" xmltv_id="MovistarPlus.pe@SD">M PLUS</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2209" lang="es" xmltv_id="PanamericanaTV.pe@SD">PANAMERICANA TELEVISION</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5701" lang="es" xmltv_id="PasionesLatinAmerica.us@SD">Pasiones HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5611" lang="es" xmltv_id="PaxTV.pe@SD">PAXTV</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6293" lang="es" xmltv_id="PXSports.mx@SD">PX SPORTS</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2212" lang="es" xmltv_id="RPPTV.pe@SD">RPP TV</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5652" lang="es" xmltv_id="Tooncast.us@SD">TOONCAST</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2377" lang="es" xmltv_id="TVChile.cl@SD">TV CHILE</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2210" lang="es" xmltv_id="TVPeru.pe@SD">TV PERU</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2214" lang="es" xmltv_id="TVPeruNoticias.pe@SD">TV PERU 7.3</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5659" lang="es" xmltv_id="UCL.uy@SD">UCL</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch4105" lang="es" xmltv_id="USMPTV.pe@SD">USMP TV</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2390" lang="es" xmltv_id="Venus.ar@SD">VENUS</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2219" lang="es" xmltv_id="WillaxTV.pe@SD">WILLAX</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch3965" lang="es" xmltv_id="ZeeMundo.us@SD">ZEE MUNDO</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6291" lang="it" xmltv_id="">RAI ITALIA</channel>
+</channels>
