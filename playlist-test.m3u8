@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="latina.pe" tvg-name="Latina" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527492_FDEFEA55854A1D7B.png",Latina
+#EXTINF:-1 tvg-id="LATINA HD" tvg-name="Latina" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527492_FDEFEA55854A1D7B.png",Latina
 http://190.93.224.42/LATINA/index.m3u8
 
 #EXTINF:-1 tvg-id="movistar.deportes.pe" tvg-name="Movistar Deportes" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/71/6718160_BE424D8C4C1AA0DF.png",Movistar Deportes
