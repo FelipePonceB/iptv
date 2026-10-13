@@ -14,22 +14,22 @@ http://190.93.224.42/LIGA-1-MAX/index.m3u8
 #EXTINF:-1 tvg-id="America.Television.pe" tvg-name="America Television" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/60/7603588_DDA3D54A42268071.png",America Television
 http://190.93.224.42/AMERICA-TV/index.m3u8
 
-#EXTINF:-1 tvg-id="PanamericanaTV.pe@SD",Panamericana TV
+#EXTINF:-1 tvg-id="panamericana.tv.pe" tvg-name="Panamericana TV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/84/7847902_7F82E3F48B905CB7.png",Panamericana TV
 http://45.171.108.253:8888/PANAMERICANA/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalN.pe@SD" group-title="Noticias",Canal N
+#EXTINF:-1 tvg-id="canal.n" tvg-name="Canal N" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/71/6718162_ED12803FCF6BD159.png",Canal N
 http://190.108.91.206:9050/play/a0bd/index.m3u8
 
-#EXTINF:-1 tvg-id="TVPeru.pe@SD",TV Peru
+#EXTINF:-1 tvg-id="tv.peru.pe",TV Peru
 http://190.93.224.42/TV-PERU/index.m3u8
 
-#EXTINF:-1 tvg-id="ATV.pe@SD",ATV
+#EXTINF:-1 tvg-id="atv.pe" tvg-name="ATV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527587_32E6A6179D3F9DDF.png",ATV
 http://190.93.224.42/ATV/index.m3u8
 
-#EXTINF:-1 tvg-id="ATVPlus.pe@SD",ATV+
+#EXTINF:-1 tvg-id="atv.plus.pe" tvg-name="ATV+" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527792_BF2E0C49C3375349.png",ATV+
 http://45.171.108.253:8888/ATV/index.m3u8
 
-#EXTINF:-1 tvg-id="GlobalTV.pe@SD",Global TV
+#EXTINF:-1 tvg-id="global.tv.pe" tvg-name="Global TV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527701_F4464E37646C28E3.png" ,Global TV
 http://190.93.224.42/GLOBAL/index.m3u8
 
 #EXTINF:-1 tvg-id="WillaxTV.pe@SD" group-title="Noticias",Willax TV
