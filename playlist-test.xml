@@ -1,0 +1,458 @@
+?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="none" generator-info-url="none">
+<channel id="latina.pe">
+<display-name lang="es">Latina</display-name>
+<icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527492_FDEFEA55854A1D7B.png"/>
+<url>http://www.movistar.com.pe</url>
+</channel>
+</tv>
+<programme start="20260919013000 +0000" stop="20260919022000 +0000" channel="latina.pe.pe">
+<title lang="es">Valentina valiente</title>
+<desc lang="es">
+Valentina se gana la vida cantando en los camiones de la ciudad junto con sus hermanos para ayuda a su abuelita. Todo cambia cuando conoce a Alejandro, un chico adinerado que la acerca a la verdad de sus orígenes.
+</desc>
+<date>2026</date>
+<rating system="MJColombia">
+<value>+14</value>
+</rating>
+</programme>
+<programme start="20260919022000 +0000" stop="20260919042000 +0000" channel="latina.pe.pe">
+<title lang="es">Yo soy</title>
+<desc lang="es">
+Un programa donde los concursantes imitan a su estrella preferida realizando conciertos espectaculares y dispuestos a realizar inimaginables cambios para ser premiados como ganadores.
+</desc>
+<date>2009</date>
+<rating system="MJColombia">
+<value>+14</value>
+</rating>
+</programme>
+<programme start="20260919042000 +0000" stop="20260919050000 +0000" channel="latina.pe.pe">
+<title lang="es">Corazón ajeno</title>
+<desc lang="es">
+La vida de cuatro personas se entrelaza luego de un accidente de tránsito y el destino parece no querer que se separen nunca más.
+</desc>
+<rating system="MJColombia">
+<value>+14</value>
+</rating>
+</programme>
+<programme start="20260919050000 +0000" stop="20260919053000 +0000" channel="latina.pe.pe">
+<title lang="es">Espacio alquilado (Problemas y soluciones)</title>
+<date>2025</date>
+<rating system="MJColombia">
+<value>+14</value>
+</rating>
+</programme>
+<programme start="20260919053000 +0000" stop="20260919063000 +0000" channel="latina.pe.pe">
+<title lang="es">Espacio alquilado (Nutrisa)</title>
+<date>2025</date>
+<rating system="MJColombia">
+<value>+14</value>
+</rating>
+</programme>
+<programme start="20260919063000 +0000" stop="20260919073000 +0000" channel="latina.pe.pe">
+<title lang="es">Golden Boy</title>
+<desc lang="es">
+El patriarca de los Korhan busca esposa para Ferit, su imprudente nieto menor. Una de las hijas de Kazim es la elegida, pero todo cambia cuando el novio escoge a Seyran, la hermana equivocada.
+</desc>
+<date>2026</date>
+<rating system="MJColombia">
+<value>TE</value>
+</rating>
+</programme>
+<programme start="20260919073000 +0000" stop="20260919080000 +0000" channel="latina.pe.pe">
+<title lang="es">Perdidos de Amor</title>
+<rating system="MJColombia">
+<value>+14</value>
+</rating>
+</programme>
+<programme start="20260919080000 +0000" stop="20260919090000 +0000" channel="latina.pe.pe">
+<title lang="es">No me dejes</title>
+<desc lang="es">
+La familia Sayar comienza una nueva vida tras algunas pérdidas.
+</desc>
+<date>2018</date>
+<rating system="MJColombia">
+<value>TE</value>
+</rating>
+</programme>
+<programme start="20260919090000 +0000" stop="20260919100000 +0000" channel="latina.pe.pe">
+<title lang="es">Buenas nuevas y malas nuevas</title>
+<desc lang="es">
+Las noticias que se deben conocer en el Perú y el mundo.
+</desc>
+<date>2022</date>
+<rating system="MJColombia">
+<value>TE</value>
+</rating>
+</programme>
+<programme start="20260919100000 +0000" stop="20260919120000 +0000" channel="latina.pe.pe">
+<title lang="es">Latina noticias reporte semanal</title>
+<desc lang="es">Las noticias más destacadas.</desc>
+<date>2021</date>
+<rating system="MJColombia">
+<value>TE</value>
+</rating>
+</programme>
+<programme start="20260919120000 +0000" stop="20260919150000 +0000" channel="latina.pe.pe">
+<title lang="es">Latina noticias fin de semana</title>
+<desc lang="es">Lo más importante del Perú y el mundo.</desc>
+<date>2021</date>
+<rating system="MJColombia">
+<value>TE</value>
+</rating>
+</programme>
+<programme start="20260919150000 +0000" stop="20260919170000 +0000" channel="latina.pe.pe">
+<title lang="es">Latina noticias reporte semanal</title>
+<desc lang="es">Las noticias más destacadas.</desc>
+<date>2021</date>
+<rating system="MJColombia">
+<value>TE</value>
+</rating>
+</programme>
+<programme start="20260919170000 +0000" stop="20260919190000 +0000" channel="latina.pe.pe">
+<title lang="es">Latina noticias mediodía</title>
+<desc lang="es">Las noticias más destacadas del fin de semana.</desc>
+<date>2021</date>
+<rating system="MJColombia">
+<value>TE</value>
+</rating>
+</programme>
+<programme start="20260919190000 +0000" stop="20260919193000 +0000" channel="latina.pe.pe">
+<title lang="es">Somos vóley</title>
+<desc lang="es">
+Cobertura, análisis y las noticias más relevantes de la Liga Peruana de Vóley (LPV).
+</desc>
+<date>2025</date>
+<rating system="MJColombia">
+<value>TE</value>
+</rating>
+</programme>
+<programme start="20260919193000 +0000" stop="20260919210000 +0000" channel="latina.pe.pe">
+<title lang="es">Pollitos en fuga</title>
+<desc lang="es">
+Un apuesto gallo y la gallina que él ama encabezan una fuga de una granja inglesa durante los años cincuenta.
+</desc>
+<date>2000</date>
+<country lang="es">Estados Unidos,Reino Unido,Francia</country>
+<rating system="MJColombia">
+<value>TE</value>
+</rating>
+</programme>
+<programme start="20260919210000 +0000" stop="20260919223000 +0000" channel="latina.pe.pe">
+<title lang="es">Los viajes de Gulliver</title>
+<desc lang="es">
+Durante un viaje al Triángulo de las Bermudas, un vórtice transporta a Lemuel Gulliver a Lilliput, una tierra mágica habitada por gente diminuta. Sus habitantes utilizarán su gran tamaño para defender su territorio del ataque de sus enemigos.
+</desc>
+<date>2010</date>
+<country lang="es">Estados Unidos</country>
+<rating system="MJColombia">
+<value>+14</value>
+</rating>
+</programme>
+<programme start="20260919223000 +0000" stop="20260920001500 +0000" channel="latina.pe.pe">
+<title lang="es">Rio 2</title>
+<desc lang="es">
+Blu, Jewel y sus tres niños dejan la comodidad de la ciudad y viajan a la selva del Amazonas para aprender a vivir como aves salvajes.
+</desc>
+<date>2014</date>
+<country lang="es">Estados Unidos</country>
+<rating system="MJColombia">
+<value>TE</value>
+</rating>
+</programme>
+<programme start="20260920001500 +0000" stop="20260920020000 +0000" channel="latina.pe.pe">
+<title lang="es">La era de hieloChoque de mundos</title>
+<desc lang="es">
+Manny, Sid, Diego y el resto de la manada tienen que salir de sus casas después de que una aventura de Scrat en el espacio exterior envía un asteroide a toda velocidad hacia la Tierra.
+</desc>
+<date>2016</date>
+<country lang="es">Estados Unidos,Reino Unido</country>
+<rating system="MJColombia">
+<value>+14</value>
+</rating>
+</programme>
+<programme start="20260920020000 +0000" stop="20260920034500 +0000" channel="latina.pe.pe">
+<title lang="es">Yo soy</title>
+<desc lang="es">
+Un programa donde los concursantes imitan a su estrella preferida realizando conciertos espectaculares y dispuestos a realizar inimaginables cambios para ser premiados como ganadores.
+</desc>
+<date>2009</date>
+<rating system="MJColombia">
+<value>+14</value>
+</rating>
+</programme>
+<programme start="20260920034500 +0000" stop="20260920053000 +0000" channel="latina.pe.pe">
+<title lang="es">La gran sangre</title>
+<desc lang="es">
+El Banco de la Nación sufre un asalto: las cámaras de vigilancia sufrieron un tiroteo, al igual que todo el personal de vigilancia y atención. Además de la masacre, todo el dinero fue saqueado.
+</desc>
+<date>2006</date>
+<rating system="MJColombia">
+<value>+14</value>
+</rating>
+</programme>
+<programme start="20260920053000 +0000" stop="20260920063000 +0000" channel="latina.pe.pe">
+<title lang="es">Espacio alquilado (Nutrisa)</title>
+<date>2025</date>
+<rating system="MJColombia">
+<value>+14</value>
+</rating>
+</programme>
+<programme start="20260920063000 +0000" stop="20260920073000 +0000" channel="latina.pe.pe">
+<title lang="es">Golden Boy</title>
+<desc lang="es">
+El patriarca de los Korhan busca esposa para Ferit, su imprudente nieto menor. Una de las hijas de Kazim es la elegida, pero todo cambia cuando el novio escoge a Seyran, la hermana equivocada.
+</desc>
+<date>2026</date>
+<rating system="MJColombia">
+<value>TE</value>
+</rating>
+</programme>
+<programme start="20260920073000 +0000" stop="20260920080000 +0000" channel="latina.pe.pe">
+<title lang="es">Perdidos de Amor</title>
+<rating system="MJColombia">
+<value>+14</value>
+</rating>
+</programme>
+<programme start="20260920080000 +0000" stop="20260920084500 +0000" channel="latina.pe.pe">
+<title lang="es">Alerta latina</title>
+<date>2024</date>
+<rating system="MJColombia">
+<value>+14</value>
+</rating>
+</programme>
+<programme start="20260920084500 +0000" stop="20260920100000 +0000" channel="latina.pe.pe">
+<title lang="es">Especial Reporte semanal</title>
+<desc lang="es">
+Especial sobre este programa de las noticias más relevantes de la semana del Perú y el mundo.
+</desc>
+<date>2018</date>
+<rating system="MJColombia">
+<value>+14</value>
+</rating>
+</programme>
+<programme start="20260920100000 +0000" stop="20260920110000 +0000" channel="latina.pe.pe">
+<title lang="es">Reporte semanal</title>
+<desc lang="es">
+Un resumen de las noticias más relevantes de la semana del Perú y el mundo.
+</desc>
+<date>2001</date>
+<rating system="MJColombia">
+<value>+14</value>
+</rating>
+</programme>
+<programme start="20260920110000 +0000" stop="20260920133000 +0000" channel="latina.pe.pe">
+<title lang="es">Latina noticias fin de semana</title>
+<desc lang="es">Lo más importante del Perú y el mundo.</desc>
+<date>2021</date>
+<rating system="MJColombia">
+<value>TE</value>
+</rating>
+</programme>
+<programme start="20260920133000 +0000" stop="20260920170000 +0000" channel="latina.pe.pe">
+<title lang="es">Latina noticias reporte semanal</title>
+<desc lang="es">Las noticias más destacadas.</desc>
+<date>2021</date>
+<rating system="MJColombia">
+<value>TE</value>
+</rating>
+</programme>
+<programme start="20260920170000 +0000" stop="20260920190000 +0000" channel="latina.pe.pe">
+<title lang="es">Latina noticias mediodía</title>
+<desc lang="es">Las noticias más destacadas del fin de semana.</desc>
+<date>2021</date>
+<rating system="MJColombia">
+<value>TE</value>
+</rating>
+</programme>
+<programme start="20260920190000 +0000" stop="20260920201500 +0000" channel="latina.pe.pe">
+<title lang="es">Habla serio</title>
+<desc lang="es">
+El objetivo del video pódcast con Mónica Delta y Santiago Gómez es conocer a la persona que hay detrás del personaje y disfrutar del proceso.
+</desc>
+<date>2024</date>
+<rating system="MJColombia">
+<value>+14</value>
+</rating>
+</programme>
+<programme start="20260920201500 +0000" stop="20260920214500 +0000" channel="latina.pe.pe">
+<title lang="es">A toda velocidad</title>
+<desc lang="es">
+El viaje de la familia Cox se transforma en una aventura a toda velocidad cuando los pasajeros descubren que no pueden controlar su auto.
+</desc>
+<date>2016</date>
+<country lang="es">Francia</country>
+<rating system="MJColombia">
+<value>TE</value>
+</rating>
+</programme>
+<programme start="20260920214500 +0000" stop="20260921000000 +0000" channel="latina.pe.pe">
+<title lang="es">Tornado</title>
+<desc lang="es">
+Dos grupos de científicos estudian los comportamientos de los tornados. Ambos compiten por ser los primeros en analizar estos fenómenos meteorológicos.
+</desc>
+<date>1996</date>
+<country lang="es">Estados Unidos</country>
+<rating system="MJColombia">
+<value>+14</value>
+</rating>
+</programme>
+<programme start="20260921000000 +0000" stop="20260921010000 +0000" channel="latina.pe.pe">
+<title lang="es">Latina noticias central</title>
+<desc lang="es">Las últimas noticias del Perú y el mundo.</desc>
+<date>2021</date>
+<rating system="MJColombia">
+<value>TE</value>
+</rating>
+</programme>
+<programme start="20260921010000 +0000" stop="20260921030000 +0000" channel="latina.pe.pe">
+<title lang="es">Latina noticias punto final</title>
+<desc lang="es">Noticias del Perú y el mundo.</desc>
+<date>2021</date>
+<rating system="MJColombia">
+<value>+14</value>
+</rating>
+</programme>
+<programme start="20260921030000 +0000" stop="20260921040000 +0000" channel="latina.pe.pe">
+<title lang="es">Sin medias tintas</title>
+<desc lang="es">
+Un espacio informativo formado por un equipo con los periodistas más incisivos y provocadores de la televisión.
+</desc>
+<date>2011</date>
+<rating system="MJColombia">
+<value>+14</value>
+</rating>
+</programme>
+<programme start="20260921040000 +0000" stop="20260921050000 +0000" channel="latina.pe.pe">
+<title lang="es">Latina Deportes</title>
+<desc lang="es">
+Las noticias sobre el fútbol peruano, la Selección peruana y el Mundial Sudamericano Sub 20. Además, voleibol, boxeo, natación y más.
+</desc>
+<date>2018</date>
+<rating system="MJColombia">
+<value>+14</value>
+</rating>
+</programme>
+<programme start="20260921050000 +0000" stop="20260921053000 +0000" channel="latina.pe.pe">
+<title lang="es">Expertos en belleza</title>
+<desc lang="es">
+Médicos especialistas te explican con claridad y respaldo científico lo último en estética y bienestar, para que tomes decisiones informadas y seguras.
+</desc>
+<date>2025</date>
+<rating system="MJColombia">
+<value>+14</value>
+</rating>
+</programme>
+<programme start="20260921053000 +0000" stop="20260921063000 +0000" channel="latina.pe.pe">
+<title lang="es">Espacio alquilado (Nutrisa)</title>
+<date>2025</date>
+<rating system="MJColombia">
+<value>+14</value>
+</rating>
+</programme>
+<programme start="20260921063000 +0000" stop="20260921073000 +0000" channel="latina.pe.pe">
+<title lang="es">Lo que callamos las mujeres</title>
+<desc lang="es">
+Hechos reales que plantean situaciones difíciles que muchas niñas y mujeres enfrentan a diario, generalmente en silencio. Buscar alternativas y poner fin a la discriminación es el objetivo.
+</desc>
+<date>2000</date>
+<rating system="MJColombia">
+<value>+14</value>
+</rating>
+</programme>
+<programme start="20260921073000 +0000" stop="20260921080000 +0000" channel="latina.pe.pe">
+<title lang="es">Habla serio</title>
+<desc lang="es">
+El objetivo del video pódcast con Mónica Delta y Santiago Gómez es conocer a la persona que hay detrás del personaje y disfrutar del proceso.
+</desc>
+<date>2024</date>
+<rating system="MJColombia">
+<value>+14</value>
+</rating>
+</programme>
+<programme start="20260921080000 +0000" stop="20260921110000 +0000" channel="latina.pe.pe">
+<title lang="es">Reporte semanal</title>
+<desc lang="es">
+Un resumen de las noticias más relevantes de la semana del Perú y el mundo.
+</desc>
+<date>2001</date>
+<rating system="MJColombia">
+<value>+14</value>
+</rating>
+</programme>
+<programme start="20260921110000 +0000" stop="20260921120000 +0000" channel="latina.pe.pe">
+<title lang="es">Latina noticias matinal</title>
+<desc lang="es">Las noticias del Perú y el mundo.</desc>
+<date>2021</date>
+<rating system="MJColombia">
+<value>TE</value>
+</rating>
+</programme>
+<programme start="20260921120000 +0000" stop="20260921140000 +0000" channel="latina.pe.pe">
+<title lang="es">Latina noticias matinal</title>
+<desc lang="es">Las noticias del Perú y el mundo.</desc>
+<date>2021</date>
+<rating system="MJColombia">
+<value>TE</value>
+</rating>
+</programme>
+<programme start="20260921140000 +0000" stop="20260921163000 +0000" channel="latina.pe.pe">
+<title lang="es">Arriba mi gente</title>
+<desc lang="es">
+Un magazine con un enfoque renovado y con lo último en entretenimiento, espectáculo y entrevistas exclusivas.
+</desc>
+<date>2022</date>
+<rating system="MJColombia">
+<value>TE</value>
+</rating>
+</programme>
+<programme start="20260921163000 +0000" stop="20260921190000 +0000" channel="latina.pe.pe">
+<title lang="es">Latina noticias mediodía</title>
+<desc lang="es">Las noticias del Perú y el mundo.</desc>
+<date>2021</date>
+<rating system="MJColombia">
+<value>TE</value>
+</rating>
+</programme>
+<programme start="20260921190000 +0000" stop="20260921200000 +0000" channel="latina.pe.pe">
+<title lang="es">Ponte en la cola</title>
+<desc lang="es">
+Espacio con entrevistas exclusivas, momentos divertidos, interacción directa con el público y una mirada fresca al mundo del espectáculo.
+</desc>
+<date>2025</date>
+<rating system="MJColombia">
+<value>TE</value>
+</rating>
+</programme>
+<programme start="20260921200000 +0000" stop="20260921210000 +0000" channel="latina.pe.pe">
+<title lang="es">Yo soy Betty, la fea</title>
+<desc lang="es">
+Beatriz Pinzón tiene un título en finanzas. Para su suerte, consigue empleo en una de las compañías más importantes en el mundo de la moda, Ecomoda. Betty nunca imaginó los constantes desprecios que enfrentaría por su aspecto físico.
+</desc>
+<date>2019</date>
+<rating system="MJColombia">
+<value>TE</value>
+</rating>
+</programme>
+<programme start="20260921210000 +0000" stop="20260921220000 +0000" channel="latina.pe.pe">
+<title lang="es">Avenida Brasil</title>
+<desc lang="es">
+Una historia en la que la ambición y la crueldad cambiarán el curso de la vida de Rita, una niña a quien el tiempo no le servirá para olvidar, sino para tomar más fuerza, y regresar al cabo de unos años, a cobrar su propia venganza.
+</desc>
+<date>2012</date>
+<rating system="MJColombia">
+<value>TE</value>
+</rating>
+</programme>
+<programme start="20260921220000 +0000" stop="20260922000000 +0000" channel="latina.pe.pe">
+<title lang="es">Moisés y los diez mandamientos</title>
+<desc lang="es">
+Una novela basada en un pasaje de la Biblia que relata la saga de Moisés desde su nacimiento hasta llevar a su pueblo a la Tierra Prometida.
+</desc>
+<date>2015</date>
+<rating system="MJColombia">
+<value>+14</value>
+</rating>
+</programme>
