@@ -11,7 +11,7 @@ http://170.244.209.30:8000/play/a1i8/index.m3u8
 #EXTINF:-1 tvg-id="L1Max.pe@SD" group-title="Sports",L1 Max
 http://190.93.224.42/LIGA-1-MAX/index.m3u8
 
-#EXTINF:-1 tvg-id="America.Television.pe" tvg-name="America Television" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/60/7603588_DDA3D54A42268071.png",America Television
+#EXTINF:-1 tvg-id="america.television.pe" tvg-name="America Television" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/60/7603588_DDA3D54A42268071.png",America Television
 http://190.93.224.42/AMERICA-TV/index.m3u8
 
 #EXTINF:-1 tvg-id="panamericana.tv.pe" tvg-name="Panamericana TV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/84/7847902_7F82E3F48B905CB7.png",Panamericana TV
@@ -29,19 +29,19 @@ http://190.93.224.42/ATV/index.m3u8
 #EXTINF:-1 tvg-id="atv.plus.pe" tvg-name="ATV+" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527792_BF2E0C49C3375349.png",ATV+
 http://45.171.108.253:8888/ATV/index.m3u8
 
-#EXTINF:-1 tvg-id="global.tv.pe" tvg-name="Global TV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527701_F4464E37646C28E3.png" ,Global TV
+#EXTINF:-1 tvg-id="global.tv.pe" tvg-name="Global TV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527701_F4464E37646C28E3.png",Global TV
 http://190.93.224.42/GLOBAL/index.m3u8
 
-#EXTINF:-1 tvg-id="WillaxTV.pe@SD" group-title="Noticias",Willax TV
+#EXTINF:-1 tvg-id="willax.pe" tvg-name="Willax" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527705_6B8F70044D44ECD4.png",Willax
 http://190.93.224.42/WILLAX/index.m3u8
 
-#EXTINF:-1 tvg-id="PBO.pe@SD" group-title="Noticias",PBO
+#EXTINF:-1 tvg-id="pbo.pe",PBO
 http://190.93.224.42/PBO/index.m3u8
 
-#EXTINF:-1 tvg-id="ExitosaTV.pe@SD" group-title="Noticias",Exitosa TV
+#EXTINF:-1 tvg-id="exitosa.tv.pe" ,Exitosa TV
 http://190.93.224.42/EXITOSA/index.m3u8
 
-#EXTINF:-1 tvg-id="RPPTV.pe@SD" group-title="Noticias",RPP TV
+#EXTINF:-1 tvg-id="rpp.pe" tvg-name="RPP" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/84/7847943_805AC3336E6752E2.png",RPP
 http://190.93.224.42/RPP/index.m3u8
 
 #EXTINF:-1 tvg-id="AELatinAmerica.us@Panregional",A&E
