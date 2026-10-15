@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="lch7109",Latina (1080p)
 http://190.93.224.42/LATINA/index.m3u8
 
+#EXTINF:-1 tvg-id="LatinaClasicos.pe@SD",Latina Clasicos (1080p)
+http://45.171.108.253:8888/LATINA/index.m3u8
+
 #EXTINF:-1 tvg-id="lch3298",Movistar Deportes (1080p)
 http://195.178.110.110/movistar/index.m3u8
 
