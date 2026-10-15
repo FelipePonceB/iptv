@@ -2,48 +2,48 @@
 #EXTINF:-1 tvg-id="lch2349",Latina (1080p)
 http://190.93.224.42/LATINA/index.m3u8
 
-#EXTINF:-1 tvg-id="MovistarDeportes.pe@SD",Movistar Deportes (1080p)
+#EXTINF:-1 tvg-id="lch3298",Movistar Deportes (1080p)
 http://195.178.110.110/movistar/index.m3u8
 
-#EXTINF:-1 tvg-id="MovistarPlus.pe@SD",Movistar Plus (576p)
+#EXTINF:-1 tvg-id="lch3302",Movistar Plus (576p)
 http://190.108.91.206:9050/play/a0bb/index.m3u8
 
-#EXTINF:-1 tvg-id="L1Max.pe@SD",L1 Max (1080p)
+#EXTINF:-1 tvg-id="lch7216",L1 Max (1080p)
 http://190.93.224.42/LIGA-1-MAX/index.m3u8
 
-#EXTINF:-1 tvg-id="AmericaTelevision.pe@SD",America Television (1080p)
+#EXTINF:-1 tvg-id="lch2202",America Television (1080p)
 http://190.93.224.42/AMERICA-TV/index.m3u8
 
-#EXTINF:-1 tvg-id="PanamericanaTV.pe@SD",Panamericana TV (1080p)
+#EXTINF:-1 tvg-id="lch2203",Panamericana TV (1080p)
 http://45.171.108.253:8888/PANAMERICANA/index.m3u8
 
-#EXTINF:-1 tvg-id="TVPeru.pe@SD",TV Peru (1080p)
+#EXTINF:-1 tvg-id="lch2204",TV Peru (1080p)
 http://190.93.224.42/VIVA-TV/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalN.pe@SD",Canal N (576p)
+#EXTINF:-1 tvg-id="lch2318",Canal N (576p)
 http://190.108.91.206:9050/play/a0bd/index.m3u8
 
-#EXTINF:-1 tvg-id="ATV.pe@SD",ATV (1080p)
+#EXTINF:-1 tvg-id="lch2205",ATV (1080p)
 http://190.93.224.42/ATV/index.m3u8
 
-#EXTINF:-1 tvg-id="ATVPlus.pe@SD",ATV+ (1080p)
+#EXTINF:-1 tvg-id="lch3451",ATV+ (1080p)
 http://190.93.224.42/ATV-PLUS/index.m3u8
 
-#EXTINF:-1 tvg-id="GlobalTV.pe@SD",Global TV (1080p)
+#EXTINF:-1 tvg-id="lch2215",Global TV (1080p)
 
-#EXTINF:-1 tvg-id="WillaxTV.pe@SD",Willax TV (1080p)
+#EXTINF:-1 tvg-id="lch5614",Willax TV (1080p)
 http://190.93.224.42/WILLAX/index.m3u8
 
-#EXTINF:-1 tvg-id="PBO.pe@SD",PBO (1080p)
+#EXTINF:-1 tvg-id="lch7110",PBO (1080p)
 http://190.93.224.42/PBO/index.m3u8
 
-#EXTINF:-1 tvg-id="ExitosaTV.pe@SD",Exitosa TV (1080p)
+#EXTINF:-1 tvg-id="lch5594",Exitosa TV (1080p)
 http://190.93.224.42/EXITOSA/index.m3u8
 
-#EXTINF:-1 tvg-id="RPPTV.pe@SD",RPP TV (1080p)
+#EXTINF:-1 tvg-id="lch2459",RPP TV (1080p)
 http://190.93.224.42/RPP/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalIPe.pe@SD",Canal IPe (720p)
+#EXTINF:-1 tvg-id="lch6469",Canal IPe (720p)
 http://187.102.210.46/IPE/index.m3u8
 
 #EXTINF:-1 tvg-id="Karibena.pe@SD",Karibena (720p)
@@ -58,19 +58,19 @@ http://15.204.246.24:8080/AMCHD/index.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us@Panregional",AXN Latin America (1080p)
 http://181.119.66.28:8081/AXN/index.m3u8
 
-#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional",Comedy Central
+#EXTINF:-1 tvg-id="lch2328",Comedy Central
 http://190.93.224.42/COMEDY-CENTRAL/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Center",Disney Channel Latin America Center (1080p)
+#EXTINF:-1 tvg-id="lch2357",Disney Channel Latin America Center (1080p)
 http://181.78.8.199:8000/play/a0dn/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@South",Disney Jr. Latin America South (1080p)
+#EXTINF:-1 tvg-id="lch5651",Disney Jr. Latin America South (1080p)
 http://45.185.163.75:8000/play/a016/index.m3u8
 
 #EXTINF:-1 tvg-id="DreamWorksChannelLatinAmerica.us@SD" group-title="Kids",DreamWorks Channel
 http://138.121.15.230:9002/DREAMWORKS/index.m3u8
 
-#EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional",FX Latin America (1080p)
+#EXTINF:-1 tvg-id="lch2325",FX Latin America (1080p)
 http://15.204.246.24:8080/FXHD/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTNovelas.us@Panregional",TNT Novelas (1080p)
@@ -82,22 +82,22 @@ http://15.204.246.24:8080/HistoryHD/index.m3u8
 #EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional",History 2 Latin America (1080p)
 http://138.121.15.230:9002/HISTORY-2/index.m3u8
 
-#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional",National Geographic Latin America (1080p)
+#EXTINF:-1 tvg-id="lch3489",National Geographic Latin America (1080p)
 http://15.204.246.24:8080/NatGeoHD/index.m3u8
 
 #EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Panregional",Lifetime Latin America (1080p)
 http://138.121.15.230:9002/LIFETIME/index.m3u8
 
-#EXTINF:-1 tvg-id="MTVLatinAmerica.us@Panregional",MTV Latin America (1080p)
+#EXTINF:-1 tvg-id="lch2359",MTV Latin America (1080p)
 http://15.204.246.24:8080/MTVHD/index.m3u8
 
-#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Panregional",Studio Universal Latin America (1080p)
+#EXTINF:-1 tvg-id="lch2245",Studio Universal Latin America (1080p)
 http://15.204.246.24:8080/StudioUniversalHD/index.m3u8
 
 #EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Panregional",Universal TV Latin America (1080p)
 http://15.204.246.24:8080/UniversalHD/index.m3u8
 
-#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional",Nickelodeon Latin America (1080p)
+#EXTINF:-1 tvg-id="lch5605",Nickelodeon Latin America (1080p)
 http://190.93.224.42/NICK/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyChannelAndes.us@SD",Sony Channel Andes (1080p)
@@ -106,7 +106,7 @@ http://15.204.246.24:8080/SonyHD/index.m3u8
 #EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us@SD",Sony Movies Latin America (720p)
 http://15.204.246.24:8080/SonyMoviesHD/index.m3u8
 
-#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@Panregional",Star Channel Latin America (1080p)
+#EXTINF:-1 tvg-id="lch2227",Star Channel Latin America (1080p)
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 
 #EXTINF:-1 tvg-id="GoldenEdge.mx@Panregional",Golden Edge (1080p)
@@ -118,7 +118,7 @@ http://45.5.118.152:8000/play/a03p/index.m3u8
 #EXTINF:-1 tvg-id="Golden.mx@Panregional",Golden (1080p)
 http://181.224.200.5:2277/play/a0do/index.m3u8
 
-#EXTINF:-1 tvg-id="Cinecanal.us@Panregional",Cinecanal (1080p)
+#EXTINF:-1 tvg-id="lch2335",Cinecanal (1080p)
 http://15.204.246.24:8080/CinecanalHD/index.m3u8
 
 #EXTINF:-1 tvg-id="RuntimeEspanol.us@SD",Runtime Espanol (720p)
@@ -139,10 +139,10 @@ http://170.83.16.50/AXN/index.m3u8
 #EXTINF:-1 tvg-id="BandSports.br@SD",Band Sports (720p)
 http://45.162.64.114/BAND_SPORTS/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.br@SD",ESPN (1080p)
+#EXTINF:-1 tvg-id="lch2775",ESPN (1080p)
 http://181.78.197.59:8000/play/a07z/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN3.br@SD",ESPN 3 (720p)
+#EXTINF:-1 tvg-id="lch2776",ESPN 3 (720p)
 http://181.78.197.59:8000/play/a081/index.m3u8
 
 #EXTINF:-1 tvg-id="TyCSportsUSA.ar@SD",TyC Sports USA
@@ -150,13 +150,13 @@ http://45.170.130.224:8000/play/a020/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxDeportes.us@SD",Fox Deportes (720p)
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports.ar@SD",Fox Sports (1080p)
+#EXTINF:-1 tvg-id="lch2294",Fox Sports (1080p)
 http://158.172.155.130:8000/play/a09x/index.m3u8
 
 #EXTINF:-1 tvg-id="DSports.us@Panregional",DSports (1080p)
 http://38.187.7.252:8000/play/a03d/index.m3u8
 
-#EXTINF:-1 tvg-id="Telefe.ar@SD",Telefe (1080p)
+#EXTINF:-1 tvg-id="lch2375",Telefe (1080p)
 http://45.173.231.22:8000/play/a053/index.m3u8
 
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx@SD",De Pelicula Latin America (1080p)
@@ -174,13 +174,13 @@ http://45.171.64.30:6060/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxLatinAmerica.us@HD",Cinemax Latin America HD (1080p)
 http://38.65.175.84:8000/play/a093/index.m3u8
 
-#EXTINF:-1 tvg-id="TNTLatinAmerica.us@Center",TNT Latin America (1080p)
+#EXTINF:-1 tvg-id="lch2221",TNT Latin America (1080p)
 http://45.171.64.30:6060/play/a03i/index.m3u8
 
-#EXTINF:-1 tvg-id="TNTLatinAmerica.us@Colombia",TNT Latin America Colombia (1080p)
+#EXTINF:-1 tvg-id="lch2221",TNT Latin America Colombia (1080p)
 http://181.78.211.244:8005/play/a09g/index.m3u8
 
-#EXTINF:-1 tvg-id="TNTSeriesLatinAmerica.us@Panregional",TNT Series Latin America (1080p)
+#EXTINF:-1 tvg-id="lch2222",TNT Series Latin America (1080p)
 http://168.196.127.137:6001/play/a095/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2226",Warner Channel Colombia (1080p)
@@ -213,8 +213,8 @@ http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8
 #EXTINF:-1 tvg-id="TLCLatinAmerica.us@Panregional",TLC Latin America (1080p)
 http://38.134.250.110:8000/play/a00n/index.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us@SouthPacific",Cartoon Network Latin America South Pacific (576p)
+#EXTINF:-1 tvg-id="lch2284",Cartoon Network Latin America South Pacific (576p)
 http://45.167.1.138:8000/play/a00w
 
-#EXTINF:-1 tvg-id="Tooncast.us@SouthAmerica",Tooncast SouthAmerica (1080p)
+#EXTINF:-1 tvg-id="lch5652",Tooncast SouthAmerica (1080p)
 http://200.62.239.170:830/play/a07n/index.m3u8
