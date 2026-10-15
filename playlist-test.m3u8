@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Latina.pe@SD",Latina (1080p)
+#EXTINF:-1 tvg-id="lch2349",Latina (1080p)
 http://190.93.224.42/LATINA/index.m3u8
 
 #EXTINF:-1 tvg-id="MovistarDeportes.pe@SD",Movistar Deportes (1080p)
