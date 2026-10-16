@@ -49,14 +49,17 @@ http://187.102.210.46/IPE/index.m3u8
 #EXTINF:-1 tvg-id="Karibena.pe@SD",Karibena (720p)
 http://187.102.210.46/KARIBENA/index.m3u8
 
-#EXTINF:-1 tvg-id="394",A&E Latin America (1080p)
+#EXTINF:-1 tvg-id="lch7264",A&E Latin America (1080p)
 http://138.121.15.230:9002/A&E/index.m3u8
 
-#EXTINF:-1 tvg-id="273",AMC Latin America (1080p)
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us@Panregional",AMC Latin America (1080p)
 http://15.204.246.24:8080/AMCHD/index.m3u8
 
-#EXTINF:-1 tvg-id="304",AXN Latin America (1080p)
+#EXTINF:-1 tvg-id="lch7252",AXN Latin America (1080p)
 http://181.119.66.28:8081/AXN/index.m3u8
+
+#EXTINF:-1 tvg-id="lch7252",AXN (720p)
+http://170.83.16.50/AXN/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2328",Comedy Central
 http://190.93.224.42/COMEDY-CENTRAL/index.m3u8
@@ -67,7 +70,7 @@ http://181.78.8.199:8000/play/a0dn/index.m3u8
 #EXTINF:-1 tvg-id="lch5651",Disney Jr. Latin America South (1080p)
 http://45.185.163.75:8000/play/a016/index.m3u8
 
-#EXTINF:-1 tvg-id="DreamWorksChannelLatinAmerica.us@SD" group-title="Kids",DreamWorks Channel
+#EXTINF:-1 tvg-id="lch7227",DreamWorks Channel
 http://138.121.15.230:9002/DREAMWORKS/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2325",FX Latin America (1080p)
@@ -76,16 +79,16 @@ http://15.204.246.24:8080/FXHD/index.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.us@Panregional",TNT Novelas (1080p)
 http://190.93.224.42/TNT-NOVELAS/index.m3u8
 
-#EXTINF:-1 tvg-id="302",History Latin America (1080p)
+#EXTINF:-1 tvg-id="lch7251",History Latin America (1080p)
 http://15.204.246.24:8080/HistoryHD/index.m3u8
 
-#EXTINF:-1 tvg-id="390",History 2 Latin America (1080p)
+#EXTINF:-1 tvg-id="lch7261",History 2 Latin America (1080p)
 http://138.121.15.230:9002/HISTORY-2/index.m3u8
 
 #EXTINF:-1 tvg-id="lch3489",National Geographic Latin America (1080p)
 http://15.204.246.24:8080/NatGeoHD/index.m3u8
 
-#EXTINF:-1 tvg-id="392",Lifetime Latin America (1080p)
+#EXTINF:-1 tvg-id="lch7254",Lifetime Latin America (1080p)
 http://138.121.15.230:9002/LIFETIME/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2359",MTV Latin America (1080p)
@@ -94,16 +97,16 @@ http://15.204.246.24:8080/MTVHD/index.m3u8
 #EXTINF:-1 tvg-id="lch2245",Studio Universal Latin America (1080p)
 http://15.204.246.24:8080/StudioUniversalHD/index.m3u8
 
-#EXTINF:-1 tvg-id="441",Universal TV Latin America (1080p)
+#EXTINF:-1 tvg-id="lch7233",Universal TV Latin America (1080p)
 http://15.204.246.24:8080/UniversalHD/index.m3u8
 
 #EXTINF:-1 tvg-id="lch5605",Nickelodeon Latin America (1080p)
 http://190.93.224.42/NICK/index.m3u8
 
-#EXTINF:-1 tvg-id="330",Sony Channel Andes (1080p)
+#EXTINF:-1 tvg-id="lch7253",Sony Channel Andes (1080p)
 http://15.204.246.24:8080/SonyHD/index.m3u8
 
-#EXTINF:-1 tvg-id="468",Sony Movies Latin America (720p)
+#EXTINF:-1 tvg-id="lch7265",Sony Movies Latin America (720p)
 http://15.204.246.24:8080/SonyMoviesHD/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2227",Star Channel Latin America (1080p)
@@ -124,7 +127,7 @@ http://15.204.246.24:8080/CinecanalHD/index.m3u8
 #EXTINF:-1 tvg-id="RuntimeEspanol.us@SD",Runtime Espanol (720p)
 https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
 
-#EXTINF:-1 tvg-id="319",E! Latin America Mexico (720p)
+#EXTINF:-1 tvg-id="lch7228",E! Latin America Mexico (720p)
 http://72.1.184.5:8089/play/a05d/index.m3u8
 
 #EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us@Brazil",Adult Swim Latin America Brazil (720p)
@@ -132,9 +135,6 @@ http://45.162.64.114/ADULT_SWIM/index.m3u8
 
 #EXTINF:-1 tvg-id="BandSports.br@SD",Band Sports (720p)
 http://45.162.64.114/BAND_SPORTS/index.m3u8
-
-#EXTINF:-1 tvg-id="AXN.br@SD",AXN (720p)
-http://170.83.16.50/AXN/index.m3u8
 
 #EXTINF:-1 tvg-id="BandSports.br@SD",Band Sports (720p)
 http://45.162.64.114/BAND_SPORTS/index.m3u8
@@ -145,7 +145,7 @@ http://181.78.197.59:8000/play/a07z/index.m3u8
 #EXTINF:-1 tvg-id="lch2776",ESPN 3 (720p)
 http://181.78.197.59:8000/play/a081/index.m3u8
 
-#EXTINF:-1 tvg-id="316",TyC Sports USA
+#EXTINF:-1 tvg-id="TyCSportsUSA.ar@SD",TyC Sports USA
 http://45.170.130.224:8000/play/a020/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxDeportes.us@SD",Fox Deportes (720p)
@@ -163,16 +163,16 @@ http://45.173.231.22:8000/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx@SD",De Pelicula Latin America (1080p)
 http://38.19.41.46:8081/DEPELICULA/index.m3u8
 
-#EXTINF:-1 tvg-id="689",Univision Latin America (1080p)
+#EXTINF:-1 tvg-id="UnivisionLatinAmerica.mx@SD",Univision Latin America (1080p)
 http://15.204.246.24:8080/UnivisionHD/index.m3u8
 
-#EXTINF:-1 tvg-id="443",Telemundo Internacional (1080p)
+#EXTINF:-1 tvg-id="lch7229",Telemundo Internacional (1080p)
 http://138.121.15.230:9002/TELEMUNDO/index.m3u8
 
-#EXTINF:-1 tvg-id="213",TCM Latin America South (1080p)
+#EXTINF:-1 tvg-id="TCMLatinAmerica.us@South",TCM Latin America South (1080p)
 http://45.171.64.30:6060/play/a014/index.m3u8
 
-#EXTINF:-1 tvg-id="287",Cinemax Latin America HD (1080p)
+#EXTINF:-1 tvg-id="CinemaxLatinAmerica.us@HD",Cinemax Latin America HD (1080p)
 http://38.65.175.84:8000/play/a093/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2221",TNT Latin America (1080p)
@@ -187,35 +187,35 @@ http://168.196.127.137:6001/play/a095/index.m3u8
 #EXTINF:-1 tvg-id="lch2226",Warner Channel Colombia (1080p)
 http://38.134.250.110:8000/play/a029/index.m3u8
 
-#EXTINF:-1 tvg-id="407",Discovery Science Latin America (720p)
+#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us@SD",Discovery Science Latin America (720p)
 http://45.171.64.30:6060/play/a007/index.m3u8
 
-#EXTINF:-1 tvg-id="294",Discovery Turbo Latin America (1080p)
+#EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.us@Panregional",Discovery Turbo Latin America (1080p)
 http://38.134.250.110:8000/play/a01y/index.m3u8
 
-#EXTINF:-1 tvg-id="293",Discovery Theater Latin America (1080p)
+#EXTINF:-1 tvg-id="DiscoveryTheaterLatinAmerica.us@SD",Discovery Theater Latin America (1080p)
 http://181.224.200.5:2277/play/a0bj/index.m3u8
 
-#EXTINF:-1 tvg-id="288",Discovery Kids Latin America (1080p)
+#EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@Panregional",Discovery Kids Latin America (1080p)
 http://181.224.200.5:2277/play/a00o/index.m3u8
 
-#EXTINF:-1 tvg-id="263",HBO Latin America (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="HBOLatinAmerica.us@SD",HBO Latin America (720p) [Geo-blocked]
 http://15.204.246.24:8080/HBOHD/index.m3u8
 
-#EXTINF:-1 tvg-id="399",HBO Family Latin America (1080p)
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us@SD",HBO Family Latin America (1080p)
 http://45.171.64.30:6060/play/a00k/index.m3u8
 
-#EXTINF:-1 tvg-id="197",HBO 2 Latin America HD (1080p)
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us@HD",HBO 2 Latin America HD (1080p)
 http://45.171.64.30:6060/play/a00i/index.m3u8
 
-#EXTINF:-1 tvg-id="291",Animal Planet Latin America HD (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us@HD",Animal Planet Latin America HD (720p) [Geo-blocked]
 http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8
 
-#EXTINF:-1 tvg-id="292",TLC Latin America (1080p)
+#EXTINF:-1 tvg-id="TLCLatinAmerica.us@Panregional",TLC Latin America (1080p)
 http://38.134.250.110:8000/play/a00n/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2284",Cartoon Network Latin America South Pacific (576p)
 http://45.167.1.138:8000/play/a00w
 
-#EXTINF:-1 tvg-id="388",Tooncast SouthAmerica (1080p)
+#EXTINF:-1 tvg-id="lch5652",Tooncast SouthAmerica (1080p)
 http://200.62.239.170:830/play/a07n/index.m3u8
