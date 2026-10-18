@@ -1,0 +1,457 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Latina.pe@SD",Latina (1080p)
+http://190.93.224.42/LATINA/index.m3u8
+#EXTINF:-1 tvg-id="LatinaClasicos.pe@SD",Latina Clasicos (1080p)
+http://45.171.108.253:8888/LATINA/index.m3u8
+
+#EXTINF:-1 tvg-id="MovistarDeportes.pe@SD",Movistar Deportes (1080p)
+http://195.178.110.110/movistar/index.m3u8
+#EXTINF:-1 tvg-id="MovistarDeportes.pe@SD",Movistar Deportes (1080p)
+http://170.244.209.30:8000/play/a1i8/index.m3u8
+#EXTINF:-1 tvg-id="MovistarDeportes.pe@SD",Movistar Deportes (1080p)
+http://45.4.1.201:8000/play/a13e/index.m3u8
+#EXTINF:-1 tvg-id="MovistarPlus.pe@SD",Movistar Plus (576p)
+http://45.4.1.201:8000/play/a19y/index.m3u8
+#EXTINF:-1 tvg-id="MovistarPlus.pe@SD",Movistar Plus (576p)
+http://190.108.91.206:9050/play/a0bb/index.m3u8
+
+#EXTINF:-1 tvg-id="L1.pe@SD",L1 (1080p)
+http://45.4.1.201:8000/play/a1ai/index.m3u8
+#EXTINF:-1 tvg-id="L1Max.pe@SD",L1 Max (1080p)
+http://190.93.224.42/LIGA-1-MAX/index.m3u8
+#EXTINF:-1 tvg-id="L1Max.pe@SD",L1 Max
+https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AmericaTelevision.pe@SD",America Television (1080p)
+http://45.171.108.253:8888/AMERICA/index.m3u8
+#EXTINF:-1 tvg-id="AmericaTelevision.pe@SD",America Television (1080p)
+http://190.93.224.42/AMERICA-TV/index.m3u8
+#EXTINF:-1 tvg-id="AmericaTelevision.pe@SD",America Television (720p)
+http://187.102.210.46/AMERICA/index.m3u8
+
+#EXTINF:-1 tvg-id="PanamericanaTV.pe@SD",Panamericana TV (1080p)
+http://45.171.108.253:8888/PANAMERICANA/index.m3u8
+#EXTINF:-1 tvg-id="PanamericanaTV.pe@SD",Panamericana TV (1080p)
+http://190.93.224.42/PANAMERICANA/index.m3u8
+#EXTINF:-1 tvg-id="PanamericanaTV.pe@SD",Panamericana TV (1080p)
+http://181.224.200.5:2277/play/kkio/index.m3u8
+
+#EXTINF:-1 tvg-id="TVPeru.pe@SD",TV Peru (1080p)
+http://190.93.224.42/VIVA-TV/index.m3u8
+#EXTINF:-1 tvg-id="TVPeru.pe@SD",TV Peru (1080p)
+http://181.224.200.5:2277/play/a0dx/index.m3u8
+#EXTINF:-1 tvg-id="TVPeru.pe@SD",TV Peru (1080p)
+http://187.102.208.209:8000/play/a0ay/index.m3u8
+#EXTINF:-1 tvg-id="TVPeru.pe@SD",TV Peru (720p)
+http://187.102.210.46/TVPERU/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalN.pe@SD",Canal N (576p)
+http://190.108.91.206:9050/play/a0bd/index.m3u8
+#EXTINF:-1 tvg-id="CanalN.pe@SD",Canal N (1080p)
+http://187.102.208.209:8000/play/a0az/index.m3u8
+#EXTINF:-1 tvg-id="CanalN.pe@SD",Canal N (1080p)
+http://170.244.209.30:8000/play/a1ib/index.m3u8
+
+#EXTINF:-1 tvg-id="ATV.pe@SD",ATV (1080p)
+http://190.93.224.42/ATV/index.m3u8
+#EXTINF:-1 tvg-id="ATV.pe@SD",ATV (720p)
+http://187.102.210.46/ATV/index.m3u8
+
+#EXTINF:-1 tvg-id="ATVPlus.pe@SD",ATV+ (1080p)
+http://45.171.108.253:8888/ATV/index.m3u8
+#EXTINF:-1 tvg-id="ATVPlus.pe@SD",ATV+ (1080p)
+http://190.93.224.42/ATV-PLUS/index.m3u8
+
+#EXTINF:-1 tvg-id="GlobalTV.pe@SD",Global TV (1080p)
+http://190.93.224.42/GLOBAL/index.m3u8
+#EXTINF:-1 tvg-id="GlobalTV.pe@SD",Global TV (720p)
+http://187.102.210.46/GLOBAL/index.m3u8
+
+#EXTINF:-1 tvg-id="WillaxTV.pe@SD",Willax TV (1080p)
+http://190.93.224.42/WILLAX/index.m3u8
+#EXTINF:-1 tvg-id="WillaxTV.pe@SD",Willax TV (1080p)
+http://170.244.209.30:8000/play/a1id/index.m3u8
+#EXTINF:-1 tvg-id="WillaxTV.pe@SD",Willax TV (720p)
+http://187.102.210.46/WILLAX/index.m3u8
+
+#EXTINF:-1 tvg-id="PBO.pe@SD",PBO (1080p)
+http://190.93.224.42/PBO/index.m3u8
+
+#EXTINF:-1 tvg-id="ExitosaTV.pe@SD",Exitosa TV (1080p)
+http://190.93.224.42/EXITOSA/index.m3u8
+#EXTINF:-1 tvg-id="ExitosaTV.pe@SD",Exitosa TV (1080p)
+http://170.244.209.30:8000/play/a1ic/index.m3u8
+#EXTINF:-1 tvg-id="ExitosaTV.pe@SD",Exitosa TV (720p)
+http://187.102.210.46/EXITOSA/index.m3u8
+
+#EXTINF:-1 tvg-id="RPPTV.pe@SD",RPP TV (1080p)
+http://190.93.224.42/RPP/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalIPe.pe@SD",Canal IPe (720p)
+http://187.102.210.46/IPE/index.m3u8
+#EXTINF:-1 tvg-id="CanalIPe.pe@SD",Canal IPe (576p)
+http://190.93.224.42/IPE/index.m3u8
+
+#EXTINF:-1 tvg-id="Karibena.pe@SD",Karibena (720p)
+http://187.102.210.46/KARIBENA/index.m3u8
+
+#EXTINF:-1 tvg-id="AELatinAmerica.us@Panregional",A&E Latin America (1080p)
+http://138.121.15.230:9002/A&E/index.m3u8
+#EXTINF:-1 tvg-id="AELatinAmerica.us@Panregional",A&E Latin America (1080p)
+http://190.93.224.42/AYE/index.m3u8
+
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us@Panregional",AMC Latin America (1080p)
+http://15.204.246.24:8080/AMCHD/index.m3u8
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us@SD",AMC Latin America (1080p)
+http://45.171.108.253:8888/AMC/index.m3u8
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us@Panregional",AMC Latin America (1080p)
+http://138.121.15.230:9002/AMC/index.m3u8
+
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us@Panregional",AXN Latin America (1080p)
+http://181.119.66.28:8081/AXN/index.m3u8
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us@Panregional",AXN Latin America (1080p)
+http://15.204.246.24:8080/AXNHD/index.m3u8
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us@Andes",AXN Latin America Andes (1080p)
+http://181.78.8.199:8000/play/a0cu/index.m3u8
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us@Panregional",AXN Latin America (1080p)
+http://190.93.224.42/AXN/index.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional",Comedy Central
+http://190.93.224.42/COMEDY-CENTRAL/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Center",Disney Channel Latin America Center (1080p)
+http://181.78.8.199:8000/play/a0dn/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@North",Disney Channel Latin America North (576p)
+http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@South",Disney Jr. Latin America South (1080p)
+http://45.185.163.75:8000/play/a016/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@South",Disney Jr. Latin America South (576p)
+http://45.70.201.81:8000/play/a00g/index.m3u8
+
+#EXTINF:-1 tvg-id="DreamWorksChannelLatinAmerica.us@SD" group-title="Kids",DreamWorks Channel
+http://138.121.15.230:9002/DREAMWORKS/index.m3u8
+
+#EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional",FX Latin America (1080p)
+http://15.204.246.24:8080/FXHD/index.m3u8
+#EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional",FX Latin America (1080p)
+http://181.119.66.28:8081/FX-HD/index.m3u8
+#EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional",FX Latin America (1080p)
+http://190.93.224.42/FX/index.m3u8
+#EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional",FX Latin America (1080p)
+http://38.252.238.18:8000/play/a01c/index.m3u8
+#EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional",FX Latin America (1080p)
+http://168.196.127.137:6001/play/a05u/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTNovelas.us@Panregional",TNT Novelas (1080p)
+http://190.93.224.42/TNT-NOVELAS/index.m3u8
+#EXTINF:-1 tvg-id="TNTNovelas.us@Colombia",TNT Novelas Colombia (1080p)
+http://190.61.47.54:8000/play/a02f/index.m3u8
+#EXTINF:-1 tvg-id="TNTNovelas.us@Panregional",TNT Novelas (1080p)
+http://158.172.155.130:8000/play/a0at/index.m3u8
+
+#EXTINF:-1 tvg-id="HistoryLatinAmerica.us@Panregional",History Latin America (1080p)
+http://15.204.246.24:8080/HistoryHD/index.m3u8
+#EXTINF:-1 tvg-id="HistoryLatinAmerica.us@Panregional",History Latin America (1080p)
+http://138.121.15.230:9002/HISTORY-CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="HistoryLatinAmerica.us@Panregional",History Latin America (1080p)
+http://181.119.66.28:8081/History-HD/index.m3u8
+#EXTINF:-1 tvg-id="HistoryLatinAmerica.us@Panregional",History Latin America (1080p)
+http://190.93.224.42/HISTORY/index.m3u8
+
+#EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional",History 2 Latin America (1080p)
+http://138.121.15.230:9002/HISTORY-2/index.m3u8
+#EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional",History 2 Latin America (1080p)
+http://181.119.66.28:8081/HISTORY-2/index.m3u8
+#EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional",History 2 Latin America (1080p)
+http://190.93.224.42/HISTORY-2/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional",National Geographic Latin America (1080p)
+http://15.204.246.24:8080/NatGeoHD/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional",National Geographic Latin America (1080p)
+http://181.119.66.28:8081/NATGEO-HD/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional",National Geographic Latin America (1080p)
+http://190.93.224.42/NAT-GEO/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional",National Geographic Latin America (1080p)
+http://45.173.231.22:8000/play/a05z/index.m3u8
+
+#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Panregional",Lifetime Latin America (1080p)
+http://138.121.15.230:9002/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Panregional",Lifetime Latin America (1080p)
+http://181.119.66.28:8081/Lifetime-HD/index.m3u8
+#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Panregional",Lifetime Latin America (1080p)
+http://187.102.208.209:8000/play/a0ad/index.m3u8
+
+#EXTINF:-1 tvg-id="MTVLatinAmerica.us@Panregional",MTV Latin America (1080p)
+http://15.204.246.24:8080/MTVHD/index.m3u8
+
+#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Panregional",Studio Universal Latin America (1080p)
+http://15.204.246.24:8080/StudioUniversalHD/index.m3u8
+#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Panregional",Studio Universal Latin America (1080p)
+http://138.121.15.230:9002/STUDIO-UNIVERSAL/index.m3u8
+#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Panregional",Studio Universal Latin America (1080p)
+http://190.93.224.42/STUDIO-UNIVERSAL/index.m3u8
+
+#EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Panregional",Universal TV Latin America (1080p)
+http://15.204.246.24:8080/UniversalHD/index.m3u8
+#EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Panregional",Universal TV Latin America (1080p)
+http://138.121.15.230:9002/UNIVERSAL-CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Panregional",Universal TV Latin America (1080p)
+http://181.119.66.28:8081/Universal-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional",Nickelodeon Latin America (1080p)
+http://15.204.246.24:8080/NickHD/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional",Nickelodeon Latin America (1080p)
+http://190.93.224.42/NICK/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyChannelAndes.us@SD",Sony Channel Andes (1080p)
+http://15.204.246.24:8080/SonyHD/index.m3u8
+#EXTINF:-1 tvg-id="SonyChannelAndes.us@SD",Sony Channel Andes (1080p)
+http://181.119.66.28:8081/SONY-HD/index.m3u8
+#EXTINF:-1 tvg-id="SonyChannelAndes.us@SD",Sony Channel Andes (1080p)
+http://190.93.224.42/SONY-CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us@SD",Sony Movies Latin America (720p)
+http://15.204.246.24:8080/SonyMoviesHD/index.m3u8
+#EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us@SD",Sony Movies Latin America (1080p)
+http://38.252.238.18:8000/play/a01e/index.m3u8
+
+#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@Panregional",Star Channel Latin America (1080p)
+http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
+#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@Panregional",Star Channel Latin America (1080p)
+http://181.119.66.28:8081/STAR-CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="GoldenEdge.mx@Panregional",Golden Edge (1080p)
+http://38.19.41.46:8081/GOLDENEDGE/index.m3u8
+#EXTINF:-1 tvg-id="GoldenEdge.mx@Panregional",Golden Edge (1080p)
+http://209.14.115.253:8081/GOLDEN-EDGE/index.m3u8
+#EXTINF:-1 tvg-id="GoldenEdge.mx@Panregional",Golden Edge (1080p)
+http://138.121.15.230:9002/GOLDEN-EDGE/index.m3u8
+#EXTINF:-1 tvg-id="GoldenEdge.mx@Panregional",Golden Edge (1080p)
+http://181.78.12.119:16123/play/ch47/index.m3u8
+#EXTINF:-1 tvg-id="GoldenEdge.mx@Panregional",Golden Edge (1080p)
+http://181.224.200.5:2277/play/a0bd/index.m3u8
+#EXTINF:-1 tvg-id="GoldenEdge.mx@Panregional",Golden Edge (1080p)
+http://168.196.127.137:6001/play/a09p/index.m3u8
+
+#EXTINF:-1 tvg-id="GoldenPlus.mx@SD",Golden Plus (1080p)
+http://45.5.118.152:8000/play/a03p/index.m3u8
+
+#EXTINF:-1 tvg-id="Golden.mx@Panregional",Golden (1080p)
+http://38.19.41.46:8081/MTV/index.m3u8
+#EXTINF:-1 tvg-id="Golden.mx@Panregional",Golden (1080p)
+http://209.14.115.253:8081/GOLDEN/index.m3u8
+#EXTINF:-1 tvg-id="Golden.mx@Panregional",Golden (720p)
+http://138.121.15.230:9002/GOLDEN/index.m3u8
+#EXTINF:-1 tvg-id="Golden.mx@Panregional",Golden (1080p)
+http://181.224.200.5:2277/play/a0do/index.m3u8
+#EXTINF:-1 tvg-id="Golden.mx@Panregional",Golden (1080p)
+http://168.196.127.137:6001/play/a06y/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinecanal.us@Panregional",Cinecanal (1080p)
+http://15.204.246.24:8080/CinecanalHD/index.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.us@Panregional",Cinecanal (1080p)
+http://181.119.66.28:8081/CINECANAL-HD/index.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.us@Panregional",Cinecanal (1080p)
+http://190.61.47.54:8000/play/a02z/index.m3u8
+
+#EXTINF:-1 tvg-id="RuntimeEspanol.us@SD",Runtime Espanol (720p)
+https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
+
+#EXTINF:-1 tvg-id="ELatinAmerica.us@Mexico",E! Latin America Mexico (720p)
+http://72.1.184.5:8089/play/a05d/index.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us@Brazil",Adult Swim Latin America Brazil (720p)
+http://168.197.104.22/ADULT_SWIM/index.m3u8
+#EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us@Brazil",Adult Swim Latin America Brazil (720p)
+http://45.162.64.114/ADULT_SWIM/index.m3u8
+#EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us@Panregional",Adult Swim Latin America
+http://170.244.209.30:8000/play/a02v/index.m3u8
+
+#EXTINF:-1 tvg-id="BandSports.br@SD",Band Sports (720p)
+http://45.162.64.114/BAND_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="BandSports.br@SD",Band Sports (720p)
+http://170.83.16.50/BAND_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="BandSports.br@SD",Band Sports (720p)
+http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8
+#EXTINF:-1 tvg-id="AXN.br@SD",AXN (720p)
+http://170.83.16.50/AXN/index.m3u8
+#EXTINF:-1 tvg-id="AXN.br@SD",AXN (720p)
+http://170.83.49.66:8083/AXNHD/index.m3u8
+#EXTINF:-1 tvg-id="Band.br@SD",Band (720p)
+http://170.84.165.204/BAND_HD/index.m3u8
+#EXTINF:-1 tvg-id="BandSports.br@SD",Band Sports (720p)
+http://45.162.64.114/BAND_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="BandSports.br@SD",Band Sports (720p)
+http://170.83.16.50/BAND_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="BandSports.br@SD",Band Sports (720p)
+http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.br@SD",ESPN (1080p)
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.br@SD",ESPN (720p)
+http://190.83.2.182:8090/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="ESPN3.br@SD",ESPN 3 (1080p)
+http://190.83.2.182:8090/ESPN3/index.m3u8
+#EXTINF:-1 tvg-id="ESPN3.br@SD",ESPN 3 (720p)
+http://181.78.197.59:8000/play/a081/index.m3u8
+#EXTINF:-1 tvg-id="ESPN4.br@SD",ESPN 4 (1080p)
+http://181.78.197.59:8000/play/a07n/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPNDeportes.us@HD",ESPN Deportes HD (720p)
+http://168.228.44.241:9998/play/a0dz/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPNLatinAmerica.us@South",ESPN Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
+#EXTINF:-1 tvg-id="ESPN2LatinAmerica.us@South",ESPN 2 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
+#EXTINF:-1 tvg-id="ESPN3LatinAmerica.us@South",ESPN 3 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
+#EXTINF:-1 tvg-id="ESPN4LatinAmerica.us@South",ESPN 4 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
+#EXTINF:-1 tvg-id="ESPN5LatinAmerica.us@South",ESPN 5 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
+#EXTINF:-1 tvg-id="ESPN6LatinAmerica.us@SD",ESPN 6 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
+#EXTINF:-1 tvg-id="ESPN7LatinAmerica.us@SD",ESPN 7 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
+
+#EXTINF:-1 tvg-id="ESPNLatinAmerica.us@Colombia",ESPN Latin America Colombia (1080p)
+http://190.61.47.54:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2LatinAmerica.us@Colombia",ESPN 2 Latin America Colombia (1080p)
+http://190.61.47.54:8000/play/a005/index.m3u8
+
+#EXTINF:-1 tvg-id="History.br@SD",History (720p)
+http://45.177.114.114/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="History.br@SD",History (720p)
+http://170.83.16.50/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="SonyChannel.br@SD",Sony Channel (720p)
+http://170.83.16.50/SONY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="SonyMovies.br@SD",Sony Movies (720p)
+http://45.162.64.114/SONY_MOVIES/index.m3u8
+#EXTINF:-1 tvg-id="SonyMovies.br@SD",Sony Movies (720p)
+http://45.177.114.115/SONY_MOVIES/index.m3u8
+#EXTINF:-1 tvg-id="SonyMovies.br@SD",Sony Movies (720p)
+http://168.197.104.22/SONY_MOVIES/index.m3u8
+#EXTINF:-1 tvg-id="SonyMovies.br@SD",Sony Movies (720p)
+http://170.83.16.50/SONY_MOVIES/index.m3u8
+#EXTINF:-1 tvg-id="SporTV3.br@SD",SporTV 3 (720p)
+http://170.83.49.66:8083/SPORTV3HD/index.m3u8
+#EXTINF:-1 tvg-id="SporTV3.br@SD",SporTV 3 (1080p)
+http://195.178.110.110/sportv3/index.m3u8
+#EXTINF:-1 tvg-id="SporTV2.br@SD",SporTV 2 (1080p)
+http://195.178.110.110/sportv2/index.m3u8
+#EXTINF:-1 tvg-id="SporTV.br@SD",SporTV (1080p)
+http://195.178.110.110/sportv/index.m3u8
+
+#EXTINF:-1 tvg-id="TyCSportsUSA.ar@SD",TyC Sports USA
+http://45.170.130.224:8000/play/a020/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxDeportes.us@SD",Fox Deportes (720p)
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports.ar@SD",Fox Sports (1080p)
+http://158.172.155.130:8000/play/a09x/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports.ar@SD",Fox Sports (1080p)
+http://138.59.227.20:8000/play/a085/index.m3u8
+
+#EXTINF:-1 tvg-id="DSports.us@Panregional",DSports
+http://138.121.113.175:8000/play/a0cj/index.m3u8
+#EXTINF:-1 tvg-id="DSports.us@Panregional",DSports (720p)
+http://15.204.146.163:8002/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="DSports.us@Panregional",DSports (1080p)
+http://38.187.7.252:8000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-id="DSports2.us@Panregional",DSports 2
+http://138.121.113.175:8000/play/a0ca/index.m3u8
+#EXTINF:-1 tvg-id="DSports2.us@Panregional",DSports 2 (1080p)
+http://187.102.208.209:8000/play/a0bq/index.m3u8
+
+#EXTINF:-1 tvg-id="Telefe.ar@SD",Telefe (1080p)
+http://45.173.231.22:8000/play/a053/index.m3u8
+
+#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx@SD",De Pelicula Latin America (1080p)
+http://38.19.41.46:8081/DEPELICULA/index.m3u8
+#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx@SD",De Pelicula Latin America (1080p)
+http://181.119.66.28:8081/DE-PELICULA/index.m3u8
+#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx@SD",De Pelicula Latin America (1080p)
+http://209.14.115.253:8081/DE-PELICULA/index.m3u8
+#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx@SD",De Pelicula Latin America (720p)
+http://181.224.200.5:2277/play/a0d1/index.m3u8
+#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx@SD",De Pelicula Latin America (1080p)
+http://190.60.55.141:9083/play/a0nf/index.m3u8
+
+#EXTINF:-1 tvg-id="UnivisionLatinAmerica.mx@SD",Univision Latin America (1080p)
+http://15.204.246.24:8080/UnivisionHD/index.m3u8
+#EXTINF:-1 tvg-id="UnivisionLatinAmerica.mx@Panregional",Univision Latin America (1080p)
+http://138.121.15.230:9002/UNIVISION/index.m3u8
+#EXTINF:-1 tvg-id="UnivisionLatinAmerica.mx@SD",Univision Latin America (1080p)
+http://190.93.224.42/UNIVISION/index.m3u8
+
+#EXTINF:-1 tvg-id="TelemundoInternacional.us@South",Telemundo Internacional (1080p)
+http://138.121.15.230:9002/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-id="TelemundoInternacional.us@South",Telemundo Internacional (1080p)
+http://190.93.224.42/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-id="TelemundoInternacional.us@CentralAmerica",Telemundo Internacional Central America (1080p)
+http://190.60.46.156:8089/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-id="TelemundoInternacional.us@South",Telemundo Internacional (1080p)
+http://168.196.127.137:6001/play/a05t/index.m3u8
+#EXTINF:-1 tvg-id="TelemundoInternacional.us@South",Telemundo Internacional (1080p)
+http://45.173.231.22:8000/play/a01h/index.m3u8
+#EXTINF:-1 tvg-id="TelemundoInternacional.us@South",Telemundo Internacional (1080p)
+http://45.173.231.22:8000/play/a097/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD",beIN SPORTS XTRA en Espanol (1080p)
+http://201.190.41.246:9060/play/a03y/index.m3u8
+
+#EXTINF:-1 tvg-id="TCMLatinAmerica.us@South",TCM Latin America South (1080p)
+http://45.171.64.30:6060/play/a014/index.m3u8
+
+#EXTINF:-1 tvg-id="CinemaxLatinAmerica.us@HD",Cinemax Latin America HD (1080p)
+http://38.65.175.84:8000/play/a093/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTLatinAmerica.us@Center",TNT Latin America (1080p)
+http://45.171.64.30:6060/play/a03i/index.m3u8
+#EXTINF:-1 tvg-id="TNTLatinAmerica.us@Colombia",TNT Latin America Colombia (1080p)
+http://181.78.211.244:8005/play/a09g/index.m3u8
+#EXTINF:-1 tvg-id="TNTSeriesLatinAmerica.us@Panregional",TNT Series Latin America (1080p)
+http://168.196.127.137:6001/play/a095/index.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel.us@Colombia",Warner Channel Colombia (1080p)
+http://38.134.250.110:8000/play/a029/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@Colombia",Discovery Kids Latin America Colombia (1080p)
+http://38.134.250.110:8000/play/a003/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us@SD",Discovery Science Latin America (720p)
+http://45.171.64.30:6060/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.us@Panregional",Discovery Turbo Latin America (1080p)
+http://38.134.250.110:8000/play/a01y/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTheaterLatinAmerica.us@SD",Discovery Theater Latin America (1080p)
+http://181.224.200.5:2277/play/a0bj/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@Panregional",Discovery Kids Latin America (1080p)
+http://181.224.200.5:2277/play/a00o/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@Chile",Discovery Kids Latin America Chile (1080p)
+http://38.224.231.176:8000/play/a01j/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOLatinAmerica.us@SD",HBO Latin America (720p) [Geo-blocked]
+http://15.204.246.24:8080/HBOHD/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us@SD",HBO Family Latin America (1080p)
+http://45.171.64.30:6060/play/a00k/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us@HD",HBO 2 Latin America HD (1080p)
+http://45.171.64.30:6060/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us@HD",Animal Planet Latin America HD (720p) [Geo-blocked]
+http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us@SD",Animal Planet Latin America (1080p)
+http://190.128.214.97:64333/play/a01n/index.m3u8
+
+#EXTINF:-1 tvg-id="TLCLatinAmerica.us@Panregional",TLC Latin America (1080p)
+http://38.134.250.110:8000/play/a00n/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us@SouthPacific",Cartoon Network Latin America South Pacific (576p)
+http://45.167.1.138:8000/play/a00w
+#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us@NorthAtlantic",Cartoon Network Latin America North Atlantic (1080p)
+http://170.244.209.30:8000/play/a027/index.m3u8
+
+#EXTINF:-1 tvg-id="Tooncast.us@SouthAmerica",Tooncast SouthAmerica (1080p)
+http://200.62.239.170:830/play/a07n/index.m3u8
