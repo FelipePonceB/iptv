@@ -38,7 +38,7 @@ http://45.171.64.30:6060/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="lch2245",Studio Universal Latin America (1080p)
 http://15.204.246.24:8080/StudioUniversalHD/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2249",Cinecanal (1080p)
+#EXTINF:-1 tvg-id="lch2249" tvg-logo="https://www.pngfind.com/pngs/m/287-2871635_cinecanal-logo-hd-png-download.png",Cinecanal (1080p)
 http://15.204.246.24:8080/CinecanalHD/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2253",HBO Family Latin America (1080p)
@@ -59,7 +59,7 @@ http://38.134.250.110:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="lch2277",TLC Latin America (1080p)
 http://38.134.250.110:8000/play/a00n/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2284",Cartoon Network Latin America South Pacific (576p)
+#EXTINF:-1 tvg-id="lch2284" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Cartoon-Network-logo.png",Cartoon Network Latin America South Pacific (576p)
 http://45.167.1.138:8000/play/a00w
 
 #EXTINF:-1 tvg-id="lch2288",Nickelodeon Latin America (1080p)
@@ -83,7 +83,7 @@ http://15.204.246.24:8080/FXHD/index.m3u8
 #EXTINF:-1 tvg-id="lch2328",Comedy Central
 http://190.93.224.42/COMEDY-CENTRAL/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2336",Cinemax Latin America HD (1080p)
+#EXTINF:-1 tvg-id="lch2336" tvg-logo="https://images.seeklogo.com/logo-png/30/1/cinemax-logo-png_seeklogo-302185.png",Cinemax Latin America HD (1080p)
 http://38.65.175.84:8000/play/a093/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2343",Discovery Theater Latin America (1080p)
@@ -107,7 +107,7 @@ http://181.78.197.59:8000/play/a07z/index.m3u8
 #EXTINF:-1 tvg-id="lch2776",ESPN 3 (720p)
 http://181.78.197.59:8000/play/a081/index.m3u8
 
-#EXTINF:-1 tvg-id="lch3091",Animal Planet Latin America HD (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="lch3091" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Animal-Planet-logo.png",Animal Planet Latin America HD (720p) [Geo-blocked]
 http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8
 
 #EXTINF:-1 tvg-id="lch3297" tvg-logo="https://i.imgur.com/yGQGDoi.png",Movistar Plus (576p)
