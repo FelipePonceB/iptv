@@ -158,7 +158,7 @@ http://15.204.246.24:8080/UniversalHD/index.m3u8
 #EXTINF:-1 tvg-id="lch7251",History Latin America (1080p)
 http://15.204.246.24:8080/HistoryHD/index.m3u8
 
-#EXTINF:-1 tvg-id="lch7252" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/b/b2/AXN_%282015%29.jpg/revision/latest?cb=20230508093836",AXN Latin America (1080p)
+#EXTINF:-1 tvg-id="lch7252" tvg-logo="https://banner2.cleanpng.com/20180702/hsi/kisspng-axn-television-channel-sony-channel-television-sho-axn-5b3a0ac3c59ea7.0065430515305304998095.jpg",AXN Latin America (1080p)
 http://181.119.66.28:8081/AXN/index.m3u8
 
 #EXTINF:-1 tvg-id="lch7253",Sony Channel Andes (1080p)
