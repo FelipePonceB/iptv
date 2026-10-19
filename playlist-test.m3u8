@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="lch2201",Latina (1080p)
+#EXTINF:-1 tvg-id="lch2201" tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F27%2F23%2F27231056_D3D0D75A5D0A741D.png&amp",Latina (1080p)
 http://190.93.224.42/LATINA/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2202",America Television (1080p)
