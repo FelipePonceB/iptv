@@ -1,128 +1,128 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="lch2201" tvg-logo="https://i.imgur.com/MOsWriY.png",Latina (1080p)
+#EXTINF:-1 tvg-id="lch2201" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527492_FDEFEA55854A1D7B.png",Latina (1080p)
 http://190.93.224.42/LATINA/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2202" tvg-logo="https://i.imgur.com/vr0g3u1.png",America Television (1080p)
+#EXTINF:-1 tvg-id="lch2202" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/60/7603588_DDA3D54A42268071.png",America Television (1080p)
 http://190.93.224.42/AMERICA-TV/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2203" tvg-logo="https://i.imgur.com/uQhEDES.png",Panamericana TV (1080p)
+#EXTINF:-1 tvg-id="lch2203" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/84/7847902_7F82E3F48B905CB7.png",Panamericana TV (1080p)
 http://45.171.108.253:8888/PANAMERICANA/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2204" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/960px-TV_Per%C3%BA_Noticias_-_2019_logo.png",TV Peru (1080p)
 http://190.93.224.42/VIVA-TV/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2205" tvg-logo="https://i.imgur.com/eUzYZfg.png",ATV (1080p)
+#EXTINF:-1 tvg-id="lch2205" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527587_32E6A6179D3F9DDF.png",ATV (1080p)
 http://190.93.224.42/ATV/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2215" tvg-logo="https://i.imgur.com/yuEou9C.png",Global TV (1080p)
+#EXTINF:-1 tvg-id="lch2215" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527701_F4464E37646C28E3.png",Global TV (1080p)
 http://190.93.224.42/GLOBAL/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2221" tvg-logo="",TNT Latin America (1080p)
+#EXTINF:-1 tvg-id="lch2221" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515391_CB25EB7CDA76FB24.png",TNT Latin America (1080p)
 http://45.171.64.30:6060/play/a03i/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2221",TNT Latin America Colombia (1080p)
+#EXTINF:-1 tvg-id="lch2221" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515391_CB25EB7CDA76FB24.png",TNT Latin America Colombia (1080p)
 http://181.78.211.244:8005/play/a09g/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2222",TNT Series Latin America (1080p)
+#EXTINF:-1 tvg-id="lch2222" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515476_805DDBBB18788395.png",TNT Series Latin America (1080p)
 http://168.196.127.137:6001/play/a095/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2226",Warner Channel Colombia (1080p)
+#EXTINF:-1 tvg-id="lch2226" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515477_3BB7C82967F46BD5.png",Warner Channel Colombia (1080p)
 http://38.134.250.110:8000/play/a029/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2227",Star Channel Latin America (1080p)
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2238",TCM Latin America South (1080p)
+#EXTINF:-1 tvg-id="lch2238" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/31/6310573_FDBA1F86CF41A989.png",TCM Latin America South (1080p)
 http://45.171.64.30:6060/play/a014/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2245",Studio Universal Latin America (1080p)
+#EXTINF:-1 tvg-id="lch2245" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/08/6088301_9018F0C267867285.png",Studio Universal Latin America (1080p)
 http://15.204.246.24:8080/StudioUniversalHD/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2249" tvg-logo="https://www.pngfind.com/pngs/m/287-2871635_cinecanal-logo-hd-png-download.png",Cinecanal (1080p)
+#EXTINF:-1 tvg-id="lch2249" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512486_A3E2583BEF3E7D10.png",Cinecanal (1080p)
 http://15.204.246.24:8080/CinecanalHD/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2253",HBO Family Latin America (1080p)
+#EXTINF:-1 tvg-id="lch2253" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519374_3CA482E51D2B655C.png",HBO Family Latin America (1080p)
 http://45.171.64.30:6060/play/a00k/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2254",HBO 2 Latin America HD (1080p)
+#EXTINF:-1 tvg-id="lch2254" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519371_95895B596B5C8566.png",HBO 2 Latin America HD (1080p)
 http://45.171.64.30:6060/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2270",National Geographic Latin America (1080p)
 http://15.204.246.24:8080/NatGeoHD/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2273",Discovery Science Latin America (720p)
+#EXTINF:-1 tvg-id="lch2273" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523536_DA0F564CD40D207F.png",Discovery Science Latin America (720p)
 http://45.171.64.30:6060/play/a007/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2275",Discovery Turbo Latin America (1080p)
+#EXTINF:-1 tvg-id="lch2275" tvg-log="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512491_2CE2F46FEA087030.png",Discovery Turbo Latin America (1080p)
 http://38.134.250.110:8000/play/a01y/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2277",TLC Latin America (1080p)
+#EXTINF:-1 tvg-id="lch2277" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523672_50C8A6C8B9DD42A3.png",TLC Latin America (1080p)
 http://38.134.250.110:8000/play/a00n/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2284" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Cartoon-Network-logo.png",Cartoon Network Latin America South Pacific (576p)
+#EXTINF:-1 tvg-id="lch2284" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png",Cartoon Network Latin America South Pacific (576p)
 http://45.167.1.138:8000/play/a00w
 
-#EXTINF:-1 tvg-id="lch2288",Nickelodeon Latin America (1080p)
+#EXTINF:-1 tvg-id="lch2288" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523298_5E05A48FF212BDA3.png",Nickelodeon Latin America (1080p)
 http://190.93.224.42/NICK/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2291",Disney Jr. Latin America South (1080p)
+#EXTINF:-1 tvg-id="lch2291" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523291_F6DF039E3B8E8BB1.png",Disney Jr. Latin America South (1080p)
 http://45.185.163.75:8000/play/a016/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2294",Fox Sports (1080p)
+#EXTINF:-1 tvg-id="lch2294" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512314_0B0C89965291A54E.png",Fox Sports (1080p)
 http://158.172.155.130:8000/play/a09x/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2313",MTV Latin America (1080p)
+#EXTINF:-1 tvg-id="lch2313" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551565_C12AECCD0D7A425E.png",MTV Latin America (1080p)
 http://15.204.246.24:8080/MTVHD/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2318" tvg-logo="https://i.imgur.com/Xytvw3J.png",Canal N (576p)
+#EXTINF:-1 tvg-id="lch2318" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/71/6718162_ED12803FCF6BD159.png",Canal N (576p)
 http://190.108.91.206:9050/play/a0bd/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2325",FX Latin America (1080p)
+#EXTINF:-1 tvg-id="lch2325" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515473_45AD48727E7ED8C8.png",FX Latin America (1080p)
 http://15.204.246.24:8080/FXHD/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2328",Comedy Central
+#EXTINF:-1 tvg-id="lch2328" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519091_39917200288AD4FD.png",Comedy Central
 http://190.93.224.42/COMEDY-CENTRAL/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2336" tvg-logo="https://images.seeklogo.com/logo-png/30/1/cinemax-logo-png_seeklogo-302185.png",Cinemax Latin America HD (1080p)
+#EXTINF:-1 tvg-id="lch2336" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512485_54EA3938DE90CEEE.png",Cinemax Latin America HD (1080p)
 http://38.65.175.84:8000/play/a093/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2343",Discovery Theater Latin America (1080p)
+#EXTINF:-1 tvg-id="lch2343" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523537_4F688A020028689F.png",Discovery Theater Latin America (1080p)
 http://181.224.200.5:2277/play/a0bj/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2356",Discovery Kids Latin America (1080p)
+#EXTINF:-1 tvg-id="lch2356" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523293_350A81601DFB7D0D.png",Discovery Kids Latin America (1080p)
 http://181.224.200.5:2277/play/a00o/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2357",Disney Channel Latin America Center (1080p)
+#EXTINF:-1 tvg-id="lch2357" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523290_AD350A44EE3C7F22.png",Disney Channel Latin America Center (1080p)
 http://181.78.8.199:8000/play/a0dn/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2459" tvg-logo="https://i.imgur.com/oBz3CgE.png",RPP TV (1080p)
+#EXTINF:-1 tvg-id="lch2459" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/84/7847943_805AC3336E6752E2.png",RPP TV (1080p)
 http://190.93.224.42/RPP/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2461",HBO Latin America (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="lch2461" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519370_43816C0D37A55C34.png",HBO Latin America (720p) [Geo-blocked]
 http://15.204.246.24:8080/HBOHD/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2775",ESPN (1080p)
+#EXTINF:-1 tvg-id="lch2775" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/19/4198140_99108D7568AA9AAE.png",ESPN (1080p)
 http://181.78.197.59:8000/play/a07z/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2776",ESPN 3 (720p)
+#EXTINF:-1 tvg-id="lch2776" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/19/4198159_B5DE0073541D8808.png",ESPN 3 (720p)
 http://181.78.197.59:8000/play/a081/index.m3u8
 
-#EXTINF:-1 tvg-id="lch3091" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Animal-Planet-logo.png",Animal Planet Latin America HD (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="lch3091" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523540_26F81A3F46EA5552.png",Animal Planet Latin America HD (720p) [Geo-blocked]
 http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8
 
-#EXTINF:-1 tvg-id="lch3297" tvg-logo="https://i.imgur.com/yGQGDoi.png",Movistar Plus (576p)
+#EXTINF:-1 tvg-id="lch3297" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/71/6718168_EF5EE18D14637ABA.png",Movistar Plus (576p)
 http://190.108.91.206:9050/play/a0bb/index.m3u8
 
-#EXTINF:-1 tvg-id="lch3298",Movistar Deportes (1080p)
+#EXTINF:-1 tvg-id="lch3298" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/71/6718160_BE424D8C4C1AA0DF.png",Movistar Deportes (1080p)
 http://195.178.110.110/movistar/index.m3u8
 
-#EXTINF:-1 tvg-id="lch3451" tvg-logo="https://i.imgur.com/fY9256H.png",ATV+ (1080p)
+#EXTINF:-1 tvg-id="lch3451" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527792_BF2E0C49C3375349.png",ATV+ (1080p)
 http://190.93.224.42/ATV-PLUS/index.m3u8
 
 #EXTINF:-1 tvg-id="lch5594" tvg-logo="https://i.imgur.com/pu0BSB7.png",Exitosa TV (1080p)
 http://190.93.224.42/EXITOSA/index.m3u8
 
-#EXTINF:-1 tvg-id="lch5614" tvg-logo="https://i.imgur.com/bZnDDPH.png"",Willax TV (1080p)
+#EXTINF:-1 tvg-id="lch5614" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527705_6B8F70044D44ECD4.png"",Willax TV (1080p)
 http://190.93.224.42/WILLAX/index.m3u8
 
 #EXTINF:-1 tvg-id="lch5652" tvg-logo="https://i.imgur.com/3yXRbQy.png",Tooncast SouthAmerica (1080p)
@@ -146,31 +146,31 @@ http://190.93.224.42/LIGA-1-MAX/index.m3u8
 #EXTINF:-1 tvg-id="lch7227",DreamWorks Channel
 http://138.121.15.230:9002/DREAMWORKS/index.m3u8
 
-#EXTINF:-1 tvg-id="lch7228",E! Latin America Mexico (720p)
+#EXTINF:-1 tvg-id="lch7228" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551426_5546C17CCDC9C9C7.png",E! Latin America Mexico (720p)
 http://72.1.184.5:8089/play/a05d/index.m3u8
 
-#EXTINF:-1 tvg-id="lch7229",Telemundo Internacional (1080p)
+#EXTINF:-1 tvg-id="lch7229" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523670_1160A8714A70955D.png",Telemundo Internacional (1080p)
 http://138.121.15.230:9002/TELEMUNDO/index.m3u8
 
-#EXTINF:-1 tvg-id="lch7233",Universal TV Latin America (1080p)
+#EXTINF:-1 tvg-id="lch7233" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519095_678CDFE242981C69.png",Universal TV Latin America (1080p)
 http://15.204.246.24:8080/UniversalHD/index.m3u8
 
-#EXTINF:-1 tvg-id="lch7251",History Latin America (1080p)
+#EXTINF:-1 tvg-id="lch7251" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523541_39FEFBD81BFBED5F.png",History Latin America (1080p)
 http://15.204.246.24:8080/HistoryHD/index.m3u8
 
-#EXTINF:-1 tvg-id="lch7252" tvg-logo="https://banner2.cleanpng.com/20180702/hsi/kisspng-axn-television-channel-sony-channel-television-sho-axn-5b3a0ac3c59ea7.0065430515305304998095.jpg",AXN Latin America (1080p)
+#EXTINF:-1 tvg-id="lch7252" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6518947_CDE896912C494ADE.png",AXN Latin America (1080p)
 http://181.119.66.28:8081/AXN/index.m3u8
 
-#EXTINF:-1 tvg-id="lch7253",Sony Channel Andes (1080p)
+#EXTINF:-1 tvg-id="lch7253" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519094_D25BA55CD778E9BC.png",Sony Channel Andes (1080p)
 http://15.204.246.24:8080/SonyHD/index.m3u8
 
-#EXTINF:-1 tvg-id="lch7254",Lifetime Latin America (1080p)
+#EXTINF:-1 tvg-id="lch7254" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/17/7174957_C8682663671689F2.png",Lifetime Latin America (1080p)
 http://138.121.15.230:9002/LIFETIME/index.m3u8
 
-#EXTINF:-1 tvg-id="lch7261",History 2 Latin America (1080p)
+#EXTINF:-1 tvg-id="lch7261" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523542_993EC55E36D9221C.png",History 2 Latin America (1080p)
 http://138.121.15.230:9002/HISTORY-2/index.m3u8
 
-#EXTINF:-1 tvg-id="lch7264",A&E Latin America (1080p)
+#EXTINF:-1 tvg-id="lch7264" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519097_DE3A1635092C0904.png",A&E Latin America (1080p)
 http://138.121.15.230:9002/A&E/index.m3u8
 
 #EXTINF:-1 tvg-id="lch7265",Sony Movies Latin America (720p)
