@@ -53,7 +53,7 @@ http://15.204.246.24:8080/NatGeoHD/index.m3u8
 #EXTINF:-1 tvg-id="lch2273" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523536_DA0F564CD40D207F.png",Discovery Science Latin America (720p)
 http://45.171.64.30:6060/play/a007/index.m3u8
 
-#EXTINF:-1 tvg-id="lch2275" tvg-log="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512491_2CE2F46FEA087030.png",Discovery Turbo Latin America (1080p)
+#EXTINF:-1 tvg-id="lch2275" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512491_2CE2F46FEA087030.png",Discovery Turbo Latin America (1080p)
 http://38.134.250.110:8000/play/a01y/index.m3u8
 
 #EXTINF:-1 tvg-id="lch2277" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523672_50C8A6C8B9DD42A3.png",TLC Latin America (1080p)
